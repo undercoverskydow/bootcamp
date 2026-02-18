@@ -1,0 +1,40 @@
+Premium Local Trading Bootcamp Platform - Task List
+ Audit & Plan Architecture
+ define_tech_stack_and_core_libraries
+ detailed_data_models (Lesson, UserProgress, Trade)
+ component_hierarchy_and_ui_layout_spec
+ state_management_strategy (Zustand + Persistence)
+ Initialize Project
+ setup_vite_react_ts_tailwind
+ install_dependencies (zustand, lucide-react, clsx, tailwind-merge)
+ configure_path_aliases
+Core Logic Implementation
+ implement_storage_utilities (src/lib/storage.ts)
+ implement_analytics_engine (src/lib/analyticsEngine.ts)
+ implement_recommendation_engine (src/lib/recommendationEngine.ts)
+ create_zustand_stores (userProgress, journal, settings)
+ UI Framework Implementation
+ setup_global_styles (border-heavy, no gradients)
+ create_layout_components (Sidebar, Header, Main)
+ implement_base_ui_components (Card, Button, Input, Badge)
+ Feature: Curriculum & Lesson Player
+ create_lesson_data_structure
+ implement_lesson_list_view
+ implement_lesson_player_view (Video + Content)
+ connect_lesson_completion_logic
+ Feature: Trading Journal
+ create_journal_entry_form
+ implement_journal_list_view
+ connect_journal_store
+ Feature: Analytics & Dashboard
+ implement_dashboard_overview
+ visualize_progress_and_completion
+ Feature: Settings & Backup
+ implement_export_import_json
+ create_settings_page
+ Access Gate
+ implement_simple_access_code_modal
+ Final Verification & Polish
+ check_responsiveness
+ verify_offline_capabilities
+ performance_audit

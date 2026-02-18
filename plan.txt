@@ -1,0 +1,74 @@
+Implementation Plan - Premium Local Trading Bootcamp
+Strict Constraints: Single-user, Local-first (LocalStorage), No Backend, No SaaS, "Bloomberg Lite" UI.
+
+Data Architecture
+Core Types
+typescript
+type MarketType = 'Forex' | 'Crypto' | 'Indices' | 'Stocks';
+type Difficulty = 'Beginner' | 'Intermediate' | 'Advanced';
+interface Lesson {
+  id: string;
+  title: string;
+  description: string;
+  videoUrl: string;
+  difficulty: Difficulty;
+  marketType: MarketType;
+  tags: string[]; // e.g., "Risk Management", "Breakout"
+  estimatedTime: number; // minutes
+  prerequisites: string[]; // Lesson IDs
+  version: number;
+  lastUpdated: string; // ISO Date
+  mcqs: MCQ[];
+  charts: ChartArtifact[];
+}
+State Management (Zustand + LocalStorage)
+Storage Wrapper: src/lib/storage.ts - All localStorage interaction goes through here.
+Stores:
+useUserProgressStore: Tracks completedLessons (Set), quizScores (Record<LessonID, Score>), weakTags (Record<Tag, FailureCount>).
+useJournalStore: Tracks entries (Trade logs), notes (Lesson notes).
+useSettingsStore: theme, chartLayout, isAccessUnlocked.
+Module Specifications
+1. Curriculum Engine
+Instructor Dashboard: Grid view. Filters: Market > Strategy.
+Phase / Lesson List: Accordion style. Visual indicators for completion and lock state (based on prerequisites).
+2. Smart Lesson Player
+Layout: Split Screen. Left: Video (16:9) + Action Bar. Right: Tabbed Sidebar (Overview, Notes, Tools, Q&A).
+Video: Custom wrapper around <video> or iframe. Supports timestamps that trigger overlays.
+3. Chart Engine
+StaticChartBreakdown: startImage + overlayImage (transparent PNGs with drawings) + toggle button.
+InteractiveChart: lightweight-charts. Single series (Candlestick) + Volume. Hardcoded mock data for examples.
+BeforeAfterSlider: Standard slider comparison component.
+4. Trading Tools
+RiskReward: Inputs (Entry, Stop, Target). Visual output (Bar chart showing R multiple).
+PositionSize: Inputs (Account, Risk %, Stop Pips). Output (Lot Size).
+5. Access Gate
+Simple overlay component checking useSettingsStore.isAccessUnlocked.
+Hardcoded code hash validation.
+UI Design System ("Bloomberg Lite")
+Colors:
+Bg: #0E1116 (Deep Black/Blue)
+Panel: #141922
+Border: #2A3441 (Critical: Borders everywhere, no shadows)
+Text: #E2E8F0 (Primary), #94A3B8 (Secondary)
+Accent: #3B82F6 (Blue)
+Typography:
+UI: Inter
+Numbers/Data: JetBrains Mono
+Directory Structure
+src/
+ ├── app/
+ ├── features/
+ │    ├── curriculum/
+ │    ├── player/
+ │    ├── charts/
+ │    ├── tools/
+ │    ├── analytics/
+ │    └── journal/
+ ├── components/
+ │    ├── ui/       # Atomic components (Btn, Input)
+ │    ├── layout/   # Sidebar, Shell
+ ├── stores/        # Zustand
+ ├── data/          # Static content
+ ├── hooks/
+ ├── lib/           # storage.ts, utils
+ └── types/

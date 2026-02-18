@@ -1,0 +1,93 @@
+Architecture & Implementation Plan: Premium Local Trading Bootcamp
+Goal Description
+Build a premium, local-first, single-user trading education platform. The focus is on a structured, professional learning environment with zero backend dependencies, utilizing LocalStorage for persistence.
+
+User Review Required
+IMPORTANT
+
+Production Readiness: The platform uses LocalStorage for data persistence. This has a storage limit (typically ~5MB-10MB). Mitigation: We will implement a robust Backup/Export JSON feature early to prevent data loss. Validation: The initial load will check for existing data and migrate/initialize if necessary.
+
+Architecture Correction Report
+1. Missing Structural Elements Identified & Fixed
+Hierarchy Gaps: The initial request implied a Lesson but didn't explicitly enforce the parent containers.
+Correction: We will strictly enforce the Instructor -> Market -> Strategy -> Phase -> Lesson hierarchy in the data usage. The Lesson interface will contain marketType, strategyId, and phaseId to link back up the chain.
+Chart Analysis: charts[] in Lesson was vague.
+Correction: We will use a dedicated ChartArtifact interface within lessons, storing image URLs or interactive chart configuration data (using Recharts).
+Journal: A generic "notes" journal is insufficient.
+Correction: We will implement a JournalEntry interface with entry, stop, target, result (R-multiple), emotionalState (enum), and mistakes (tags).
+Access Gate: This was requested as a final step.
+Correction: We will treat this as a "Feature Flag" in the initialization logic, checking for a localStorage key before rendering the main App layout.
+2. UI/UX Style Enforcement
+Constraint: "No glassmorphism, no gradients, border-heavy".
+Correction: We will configure Tailwind to use a specific border utility class (border-border) everywhere. We will use shadcn/ui style tokens but override any default soft shadows with hard borders or no shadows.
+Colors: Set up a strict CSS variable system for background, foreground, border, input, ring.
+3. Performance & Scalability logic
+Issue: 500+ lessons could slow down rendering.
+Correction: We will use react-window or strict pagination for the Lesson List view.
+State: We will use zustand with immer for immutable state updates to ensure performance with large nested objects.
+Architecture Audit & Correction
+Data Models
+We will define strict TypeScript interfaces for all entities.
+
+Lesson: Includes detailed metadata (market, difficulty, etc.), content (video, text), and embedded quizzes/charts.
+JournalEntry: Structured trade log with specific fields (entry, stop, target, R-multiple, emotional state).
+UserProgress: Tracks completion status, quiz scores, time spent, etc.
+Settings: User preferences (theme, etc.).
+Correction: The user specified charts[] in Lesson. We will integrate a charting library (likely Recharts or a lightweight TradingView widget alternative if local-only constraints allow, but Recharts is safer for pure local data visualization).
+
+State Management
+Library: zustand (v4/v5).
+Persistence: zustand/middleware/persist with a custom storage wrapper in src/lib/storage.ts to handle serialization/deserialization safely (no Set in storage).
+Stores:
+useUserProgressStore: Tracks lessons completed, quiz results.
+useJournalStore: Manages trade entries.
+useSettingsStore: UI preferences.
+Core Logic Separation
+Analytics: src/lib/analyticsEngine.ts - Pure functions to calculate completion rates, win rates, etc.
+Recommendations: src/lib/recommendationEngine.ts - Rule-based logic (e.g., "If accuracy < 50% on 'Breakout' tags, recommend 'Breakout Basics' lesson").
+Proposed Structure (File Tree)
+src/
+├── assets/             # Static assets (images, icons)
+├── components/         # Shared UI components
+│   ├── ui/             # Generic UI (Button, Card, Input) - shadcn-like
+│   ├── layout/         # Sidebar, Header, MainLayout
+│   ├── features/       # Feature-specific components
+│   │   ├── lesson/     # LessonPlayer, Quiz, LessonList
+│   │   ├── journal/    # TradeLog, JournalEntryForm
+│   │   ├── analytics/  # Charts, ProgressBars
+│   │   └── settings/   # Backup/Restore UI
+├── lib/
+│   ├── analyticsEngine.ts      # Pure logic for stats
+│   ├── recommendationEngine.ts # Rule-based suggestions
+│   ├── storage.ts              # LocalStorage wrapper
+│   ├── utils.ts                # Helper functions (clsx, etc.)
+│   └── types.ts                # TypeScript interfaces
+├── stores/             # Zustand stores
+│   ├── useUserProgressStore.ts
+│   ├── useJournalStore.ts
+│   └── useSettingsStore.ts
+├── data/               # Static content (Curriculum, Lessons)
+│   ├── curriculum.json
+│   └── lessons.json
+├── App.tsx             # Main routing & layout
+└── main.tsx            # Entry point
+UI/UX Specification
+Design System: "Border-heavy professional".
+Colors: Slate/Gray scale, distinct accents for comprehensive (Blue), warning (Orange), success (Green).
+Typography: Inter (UI), JetBrains Mono (Numbers/Code).
+Layout:
+Desktop: Fixed Sidebar (Left), Main Content (Right).
+Mobile: Hamburger menu -> Drawer.
+Components:
+Cards: Sharp corners, 1px borders, consistent padding.
+Buttons: Solid, outline, ghost variants. focus-visible rings for accessibility.
+Inputs: Standardized height, clear labels.
+Verification Plan
+Automated Tests
+Since we are avoiding a complex backend, we will rely on strict TypeScript typing and unit tests for the logic engines (analyticsEngine, recommendationEngine).
+vitest will be used for unit testing core logic.
+Manual Verification
+Responsiveness: Check Sidebar behavior on Desktop (1920px), Tablet (768px), Mobile (375px).
+Persistence: Reload page -> Verify progress remains.
+Backup: Export data -> Clear LocalStorage -> Import data -> Verify restoration.
+Performance: Load fake dataset of 500 lessons -> Verify list scroll performance (virtualization check).
