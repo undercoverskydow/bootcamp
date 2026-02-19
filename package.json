@@ -5,16 +5,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prisma:generate": "prisma generate",
-    "prisma:migrate": "prisma migrate dev --name init",
-    "prisma:studio": "prisma studio",
-    "seed": "node prisma/seed.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@prisma/client": "^5.11.0",
     "@radix-ui/react-accordion": "^1.0.4",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
@@ -41,7 +36,6 @@
   },
   "devDependencies": {
     "eslint": "^8.55.0",
-    "eslint-config-next": "^14.1.0",
-    "prisma": "^5.11.0"
+    "eslint-config-next": "^14.1.0"
   }
 }
