@@ -1,9 +1,12 @@
+'use client'
+
 import React, { useEffect, useState } from 'react'
 import { findLessonById } from '../lib/curriculumEngine'
 import type { Lesson } from '../lib/types'
 import LessonPlayer from '../components/LessonPlayer'
 
 function parseHash() {
+  if (typeof window === 'undefined') return null
   const h = window.location.hash || ''
   const m = h.match(/^#\/lesson\/(.+)$/)
   return m ? decodeURIComponent(m[1]) : null

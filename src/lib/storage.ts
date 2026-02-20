@@ -195,7 +195,7 @@ export function setItem(key: string, value: any): void {
   }
 }
 
-export function importAll(): any {
+export function importAll(data?: string): any {
   return null;
 }
 

@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import type { Curriculum } from '../lib/types'
 import AccordionPhase from '../components/AccordionPhase'
@@ -9,6 +11,8 @@ type Props = {
 }
 
 export default function InstructorDashboard({ curriculum, onSelectLesson, completed }: Props) {
+  if (!curriculum?.instructors) return null
+
   return (
     <div className="space-y-4">
       {curriculum.instructors.map((inst) => (

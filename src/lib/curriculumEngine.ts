@@ -43,5 +43,6 @@ export function findLessonById(id: string): Lesson | undefined {
 
 export function isLessonLocked(lesson: Lesson, completedIds: string[]) {
   // locked if any prerequisite not in completedIds
+  if (!lesson.prerequisites || lesson.prerequisites.length === 0) return false
   return lesson.prerequisites.some((p) => !completedIds.includes(p))
 }

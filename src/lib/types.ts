@@ -24,7 +24,10 @@ export interface Lesson {
   videoUrl: string;
   duration?: string;
   quiz?: Quiz[];
+  mcqs?: MCQ[];
   content?: string;
+  note?: string;
+  prerequisites?: string[];
 }
 
 export interface Phase {

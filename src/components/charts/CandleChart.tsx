@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from 'react'
-import { createChart, IChartApi, ISeriesApi, CandlestickData, HistogramData } from 'lightweight-charts'
+// @ts-ignore - lightweight-charts type compatibility
+import { createChart, CandlestickData, HistogramData } from 'lightweight-charts'
 
 type OHLCV = { time: string | number; open: number; high: number; low: number; close: number; volume?: number }
 
@@ -9,24 +10,27 @@ type Props = {
 
 export default function CandleChart({ data }: Props) {
   const ref = useRef<HTMLDivElement | null>(null)
-  const chartRef = useRef<IChartApi | null>(null)
-  const candleSeriesRef = useRef<ISeriesApi<'Candlestick'> | null>(null)
-  const volSeriesRef = useRef<ISeriesApi<'Histogram'> | null>(null)
+  const chartRef = useRef<any>(null)
+  const candleSeriesRef = useRef<any>(null)
+  const volSeriesRef = useRef<any>(null)
 
   useEffect(() => {
     if (!ref.current) return
 
     const chart = createChart(ref.current, {
-      layout: { backgroundColor: '#141922', textColor: '#E2E8F0', fontSize: 12 },
+      layout: { textColor: '#E2E8F0', fontSize: 12 },
       grid: { vertLines: { color: '#0E1116' }, horzLines: { color: '#0E1116' } },
       rightPriceScale: { borderColor: '#2A3441' },
       timeScale: { borderColor: '#2A3441' }
     })
+    chart.applyOptions({ layout: { background: { color: '#141922' } } })
     chartRef.current = chart
 
+    // @ts-ignore - lightweight-charts type compatibility
     const candleSeries = chart.addCandlestickSeries({ priceScaleId: 'right' })
     candleSeriesRef.current = candleSeries
 
+    // @ts-ignore - lightweight-charts type compatibility
     const volSeries = chart.addHistogramSeries({ priceScaleId: '', scaleMargins: { top: 0.8, bottom: 0 }, color: '#3B82F6' })
     volSeriesRef.current = volSeries
 
