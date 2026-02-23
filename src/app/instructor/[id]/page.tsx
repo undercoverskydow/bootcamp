@@ -9,18 +9,18 @@ import { useEffect, useState } from 'react';
 const instructorData = {
   ash: {
     name: 'Ash',
-    title: 'Market Structure Expert',
-    description: 'Learn the foundations of technical analysis and how professional traders read price action.',
+    title: 'Professional CRT Strategist | 15+ Years of Experience',
+    description: 'With over 15 years mastering CRT and market structure, Ash has helped traders decode price action with precision and confidence. Learn how to read the market like a professional — identify high-probability setups, understand liquidity movements, and trade with clarity instead of emotion.',
   },
   adarsh: {
     name: 'Adarsh',
-    title: 'Order Flow Specialist',
-    description: 'Master the advanced technique of reading order flow and understanding institutional movements.',
+    title: 'SMC & ICT Expert',
+    description: 'Adarsh specializes in Smart Money Concepts (SMC), teaching traders how institutions truly move the market. Discover liquidity sweeps, order blocks, mitigation, and advanced market manipulation models used by professionals to stay ahead of retail traders.',
   },
   'jean-mastan': {
     name: 'Jean-Mastan',
-    title: 'Risk Management Coach',
-    description: 'Become a disciplined trader with proven risk management strategies.',
+    title: 'Stock Market Investor & Risk Strategist',
+    description: 'Jean brings real-world investing experience from the stock market, focusing on long-term growth, capital preservation, and disciplined execution. Learn how to think like an investor, manage risk intelligently, and build sustainable wealth over time.',
   },
 };
 
