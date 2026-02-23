@@ -1,0 +1,64 @@
+{
+  "title": "Ash - Day 2 Part 1",
+  "description": "Understanding risk management, position sizing, and the importance of stop losses and risk-reward ratios.",
+  "videoUrl": "https://youtu.be/tRQTV_8tt7w",
+  "duration": "28 mins",
+  "content": "In this lesson, you'll learn:\n\n• How to measure risk per trade\n• Understanding risk-reward ratios (1:2, 1:3)\n• The dangers of overleveraging\n• How stop losses protect your capital\n• Position sizing based on account size\n• Building consistent profit through proper risk management",
+  "quiz": [
+    {
+      "question": "What is risk per trade usually measured in?",
+      "options": [
+        "Pips or percentage",
+        "Candles",
+        "Colors",
+        "Minutes"
+      ],
+      "answer": 0,
+      "explanation": "Risk is measured in pips (for Forex/stocks) or percentage of account, consistently applied to all trades."
+    },
+    {
+      "question": "A 1:2 RR means:",
+      "options": [
+        "Risk 2 to gain 1",
+        "Risk 1 to gain 2",
+        "Equal risk",
+        "No risk"
+      ],
+      "answer": 1,
+      "explanation": "A 1:2 risk-reward means for every 1 unit risked, you target 2 units of profit."
+    },
+    {
+      "question": "Overleveraging causes:",
+      "options": [
+        "Stability",
+        "Account blow risk",
+        "Discipline",
+        "Consistency"
+      ],
+      "answer": 1,
+      "explanation": "High leverage amplifies losses, making account blowups more likely even with small losses."
+    },
+    {
+      "question": "Stop loss protects:",
+      "options": [
+        "Ego",
+        "Capital",
+        "Indicators",
+        "News"
+      ],
+      "answer": 1,
+      "explanation": "Stop losses limit losses and protect your trading capital from catastrophic losses."
+    },
+    {
+      "question": "Position sizing depends on:",
+      "options": [
+        "Account size",
+        "Mood",
+        "Market rumor",
+        "Candle color"
+      ],
+      "answer": 0,
+      "explanation": "Position size must be calculated based on account size and risk per trade, not emotions or random factors."
+    }
+  ]
+}

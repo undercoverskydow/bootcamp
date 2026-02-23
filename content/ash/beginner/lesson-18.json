@@ -1,0 +1,64 @@
+{
+  "title": "Decoding Market Structure Part 2 Bonus",
+  "description": "Advanced structural concepts including inducement, liquidity raids, and HTF confluence.",
+  "videoUrl": "https://youtu.be/ZIy6vxdg1ZA",
+  "duration": "25 mins",
+  "content": "In this lesson, you'll learn:\n\n• Inducement before major moves\n• Liquidity raid confirmations\n• Structural shift requirements\n• Higher timeframe liquidity importance\n• Confirmation candle requirements\n• Improving probability through alignment",
+  "quiz": [
+    {
+      "question": "Inducement often appears before:",
+      "options": [
+        "Major move",
+        "Weekend",
+        "Flat market",
+        "Indicator lag"
+      ],
+      "answer": 0,
+      "explanation": "Inducement typically precedes major directional moves to trap unsuspecting traders."
+    },
+    {
+      "question": "Liquidity raid confirms:",
+      "options": [
+        "Stop hunt",
+        "Broker shutdown",
+        "Spread freeze",
+        "News halt"
+      ],
+      "answer": 0,
+      "explanation": "Liquidity raids are when price hunts stops and grabs liquidity before reversing."
+    },
+    {
+      "question": "Structural shift requires:",
+      "options": [
+        "Candle close confirmation",
+        "Wick only",
+        "Volume drop",
+        "Gap open"
+      ],
+      "answer": 0,
+      "explanation": "A valid structural shift needs strong candle close beyond the level, not just a wick."
+    },
+    {
+      "question": "Higher timeframe liquidity is:",
+      "options": [
+        "Stronger target",
+        "Irrelevant",
+        "Random",
+        "Weak zone"
+      ],
+      "answer": 0,
+      "explanation": "Higher timeframe liquidity represents stronger institutional orders and is a stronger target."
+    },
+    {
+      "question": "Structure alignment improves:",
+      "options": [
+        "Probability",
+        "Emotions",
+        "Randomness",
+        "Risk exposure"
+      ],
+      "answer": 0,
+      "explanation": "When multiple timeframes align structurally, the probability of success increases significantly."
+    }
+  ]
+}

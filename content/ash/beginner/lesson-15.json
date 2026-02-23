@@ -1,0 +1,64 @@
+{
+  "title": "Day 6 FAQ - WARM UP",
+  "description": "The importance of warming up before trading, journaling, and building trading routines.",
+  "videoUrl": "https://youtu.be/KaLcCgYhPnk",
+  "duration": "19 mins",
+  "content": "In this lesson, you'll learn:\n\n• Why warming up before trading is crucial\n• Pre-trading routine practices\n• Pattern recognition improvement\n• Journaling for self-improvement\n• Building consistency through routine\n• Reducing emotional impulsiveness",
+  "quiz": [
+    {
+      "question": "Warm-up before trading helps improve:",
+      "options": [
+        "Emotional control",
+        "Internet speed",
+        "Broker leverage",
+        "Spread size"
+      ],
+      "answer": 0,
+      "explanation": "Warm-up routines help traders get into the right mental state and reduce emotional trading."
+    },
+    {
+      "question": "Reviewing previous trades improves:",
+      "options": [
+        "Screen brightness",
+        "Pattern recognition",
+        "Mouse accuracy",
+        "Chart theme"
+      ],
+      "answer": 1,
+      "explanation": "Reviewing past trades helps you recognize patterns and learn from your mistakes."
+    },
+    {
+      "question": "A trading routine builds:",
+      "options": [
+        "Randomness",
+        "Consistency",
+        "Overtrading",
+        "Fear"
+      ],
+      "answer": 1,
+      "explanation": "Consistent routines create discipline and predictable trading behavior."
+    },
+    {
+      "question": "Journaling helps identify:",
+      "options": [
+        "Chart colors",
+        "Behavioral mistakes",
+        "Broker fees",
+        "Candle size"
+      ],
+      "answer": 1,
+      "explanation": "Journaling reveals patterns in your trading errors and emotional decisions."
+    },
+    {
+      "question": "Preparation reduces:",
+      "options": [
+        "Risk awareness",
+        "Emotional impulsiveness",
+        "Liquidity",
+        "Volatility"
+      ],
+      "answer": 1,
+      "explanation": "Well-prepared traders make thoughtful decisions rather than impulsive emotional trades."
+    }
+  ]
+}

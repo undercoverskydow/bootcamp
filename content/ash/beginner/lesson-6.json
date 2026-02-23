@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training Day 1.1",
+  "description": "Introduction to market structure - Understanding highs, lows, trends, and break of structure concepts.",
+  "videoUrl": "https://youtu.be/HZ3ktZh8xMI",
+  "duration": "25 mins",
+  "content": "In this lesson, you'll learn:\n\n• Market structure basics: highs and lows\n• How to identify uptrends and downtrends\n• Higher highs and higher lows in uptrends\n• Break of structure signals\n• Liquidity placement and importance\n• The power of patience in trading",
+  "quiz": [
+    {
+      "question": "What is market structure based on?",
+      "options": [
+        "Random candles",
+        "Highs and lows",
+        "Volume only",
+        "News only"
+      ],
+      "answer": 1,
+      "explanation": "Market structure is defined by the sequence of highs and lows, which forms the framework for technical analysis."
+    },
+    {
+      "question": "An uptrend forms when price makes:",
+      "options": [
+        "Lower highs",
+        "Equal highs",
+        "Higher highs and higher lows",
+        "Flat lines"
+      ],
+      "answer": 2,
+      "explanation": "An uptrend is characterized by sequential higher highs and higher lows, showing consistent upward momentum."
+    },
+    {
+      "question": "A break of structure signals:",
+      "options": [
+        "Trend continuation or shift",
+        "Weather change",
+        "Broker issue",
+        "Spread widening"
+      ],
+      "answer": 0,
+      "explanation": "A break of structure indicates a potential trend continuation or reversal, making it a critical level to monitor."
+    },
+    {
+      "question": "Liquidity often sits above:",
+      "options": [
+        "Random price",
+        "Equal highs/lows",
+        "News candles",
+        "Indicators"
+      ],
+      "answer": 1,
+      "explanation": "Liquidity pools form near equal highs and lows where institutional orders cluster, making these key levels."
+    },
+    {
+      "question": "Patience in trading means:",
+      "options": [
+        "Forcing entries",
+        "Waiting for confirmation",
+        "Trading daily",
+        "Increasing lot size"
+      ],
+      "answer": 1,
+      "explanation": "Patience means waiting for confirmed setups that meet your trading criteria rather than impulsive entries."
+    }
+  ]
+}

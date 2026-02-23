@@ -1,0 +1,64 @@
+{
+  "title": "Decoding Market Structure Part 1 Bonus",
+  "description": "External and internal structure, break of structure, and change of character concepts explained.",
+  "videoUrl": "https://youtu.be/U2LmyigJRPo",
+  "duration": "24 mins",
+  "content": "In this lesson, you'll learn:\n\n• External structure on higher timeframes\n• Internal structure on lower timeframes\n• How to combine both for better analysis\n• Break of Structure (BOS) signals\n• Change of Character (CHOCH) definition\n• Preventing blind entries with structural analysis",
+  "quiz": [
+    {
+      "question": "External structure refers to:",
+      "options": [
+        "Higher timeframe swing",
+        "1-minute chart",
+        "Indicator crossover",
+        "News event"
+      ],
+      "answer": 0,
+      "explanation": "External structure is the larger timeframe swing that provides context for trading decisions."
+    },
+    {
+      "question": "Internal structure helps refine:",
+      "options": [
+        "Entry timing",
+        "Bias only",
+        "Spread",
+        "Broker selection"
+      ],
+      "answer": 0,
+      "explanation": "Internal structure provides precise entry timing on lower timeframes within the external structure."
+    },
+    {
+      "question": "Break of structure (BOS) confirms:",
+      "options": [
+        "Continuation",
+        "Random move",
+        "Chart glitch",
+        "Flat market"
+      ],
+      "answer": 0,
+      "explanation": "BOS confirms a structural shift that typically signals continuation or reversal."
+    },
+    {
+      "question": "Change of character (CHOCH) signals:",
+      "options": [
+        "Possible shift",
+        "Volume spike only",
+        "Spread widening",
+        "Broker issue"
+      ],
+      "answer": 0,
+      "explanation": "CHOCH indicates a possible directional change or shift in market character."
+    },
+    {
+      "question": "Structural analysis prevents:",
+      "options": [
+        "Blind entries",
+        "Profit",
+        "Liquidity",
+        "Volatility"
+      ],
+      "answer": 0,
+      "explanation": "Proper structural analysis ensures entries have context and reasoning, avoiding blind trades."
+    }
+  ]
+}

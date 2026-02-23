@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training DAY 2.2",
+  "description": "Deep dive into liquidity, smart money movements, and liquidity sweeps in trading.",
+  "videoUrl": "https://youtu.be/CHcRnMl11Ew",
+  "duration": "26 mins",
+  "content": "In this lesson, you'll learn:\n\n• What draw on liquidity means\n• Where liquidity concentrates (equal highs/lows)\n• How smart money hunts stops and grabs liquidity\n• The concept of liquidity sweeps\n• Why understanding liquidity improves entry timing\n• Recognizing institutional order placement",
+  "quiz": [
+    {
+      "question": "What is draw on liquidity?",
+      "options": [
+        "Random entry",
+        "Price moving toward liquidity pools",
+        "Indicator crossover",
+        "Spread widening"
+      ],
+      "answer": 1,
+      "explanation": "Draw on liquidity is when price moves toward and absorbs the liquidity clustered at key levels."
+    },
+    {
+      "question": "Liquidity is commonly found at:",
+      "options": [
+        "Equal highs and lows",
+        "Random candles",
+        "Mid-chart areas",
+        "Broker zones"
+      ],
+      "answer": 0,
+      "explanation": "Liquidity pools at equal highs and lows where stop losses and orders cluster."
+    },
+    {
+      "question": "Smart money often targets:",
+      "options": [
+        "Retail stop losses",
+        "News headlines",
+        "Indicators",
+        "Fibonacci only"
+      ],
+      "answer": 0,
+      "explanation": "Institutional traders hunt retail stop losses to grab liquidity before large moves."
+    },
+    {
+      "question": "A liquidity sweep usually:",
+      "options": [
+        "Ends trend immediately",
+        "Grabs stops before reversal",
+        "Closes market",
+        "Freezes spreads"
+      ],
+      "answer": 1,
+      "explanation": "Liquidity sweeps grab stops and institutional orders before the market moves in the intended direction."
+    },
+    {
+      "question": "Understanding liquidity improves:",
+      "options": [
+        "Entry timing",
+        "Laptop speed",
+        "Chart color",
+        "Internet signal"
+      ],
+      "answer": 0,
+      "explanation": "Knowing where liquidity sits allows for better entry placement and improved trade execution."
+    }
+  ]
+}

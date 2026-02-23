@@ -1,0 +1,64 @@
+{
+  "title": "DAY 8 - LIVE ACCOUNTS VS PROP FIRM",
+  "description": "Comparing live trading accounts with proprietary firm accounts and understanding risk management.",
+  "videoUrl": "https://youtu.be/PXAQycTAkkE",
+  "duration": "26 mins",
+  "content": "In this lesson, you'll learn:\n\n• What proprietary firms provide\n• Evaluation phases and requirements\n• Risk in live accounts (personal capital)\n• Drawdown rules and limits\n• Strict risk control necessity\n• Discipline requirements for prop trading",
+  "quiz": [
+    {
+      "question": "Prop firms provide:",
+      "options": [
+        "Funded capital",
+        "Guaranteed profit",
+        "No rules",
+        "Free leverage"
+      ],
+      "answer": 0,
+      "explanation": "Proprietary firms provide traders with funded capital to trade with, sharing profits accordingly."
+    },
+    {
+      "question": "Evaluation phase tests:",
+      "options": [
+        "Discipline",
+        "Internet speed",
+        "Chart theme",
+        "Indicator color"
+      ],
+      "answer": 0,
+      "explanation": "Evaluation phases assess whether you can follow rules and demonstrate disciplined trading."
+    },
+    {
+      "question": "Live account risk is:",
+      "options": [
+        "Personal capital",
+        "Demo balance",
+        "Free capital",
+        "Virtual money"
+      ],
+      "answer": 0,
+      "explanation": "Live account trading risks your own real money, unlike demo trading."
+    },
+    {
+      "question": "Drawdown rules are:",
+      "options": [
+        "Risk limits",
+        "Indicator signals",
+        "Bias model",
+        "Session timing"
+      ],
+      "answer": 0,
+      "explanation": "Drawdown rules define maximum acceptable losses before account suspension."
+    },
+    {
+      "question": "Prop trading requires:",
+      "options": [
+        "Strict risk control",
+        "Overleveraging",
+        "Gambling",
+        "Random trades"
+      ],
+      "answer": 0,
+      "explanation": "Proprietary trading demands rigorous adherence to risk management rules to preserve capital."
+    }
+  ]
+}

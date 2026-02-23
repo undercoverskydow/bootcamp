@@ -1,0 +1,64 @@
+{
+  "title": "Day 6 Part 2",
+  "description": "Confirmation entries, premium/discount zones, and equilibrium concepts in trading.",
+  "videoUrl": "https://youtu.be/Wd0WWHGZm8s",
+  "duration": "20 mins",
+  "content": "In this lesson, you'll learn:\n\n• What confirmation entry strategy means\n• Retracement entries into premium zones\n• Premium zone definition and placement\n• Discount zone locations\n• Equilibrium and its significance\n• Risk management with confirmation entries",
+  "quiz": [
+    {
+      "question": "Confirmation entry improves:",
+      "options": [
+        "Accuracy",
+        "Random trades",
+        "Overleveraging",
+        "Noise"
+      ],
+      "answer": 0,
+      "explanation": "Waiting for confirmation before entering reduces false signals and improves win rate."
+    },
+    {
+      "question": "A retracement entry aims to:",
+      "options": [
+        "Enter at premium/discount",
+        "Enter at random",
+        "Trade without bias",
+        "Avoid structure"
+      ],
+      "answer": 0,
+      "explanation": "Retracement entries place you at better price levels (premium or discount zones) with better risk-reward."
+    },
+    {
+      "question": "Premium zone is typically:",
+      "options": [
+        "Above equilibrium",
+        "Below equilibrium",
+        "Random level",
+        "News candle"
+      ],
+      "answer": 0,
+      "explanation": "Premium zones are above equilibrium, representing expensive price levels."
+    },
+    {
+      "question": "Discount zone is:",
+      "options": [
+        "Above range",
+        "Below equilibrium",
+        "Spread zone",
+        "Weekend gap"
+      ],
+      "answer": 1,
+      "explanation": "Discount zones are below equilibrium, representing cheaper price levels for better entries."
+    },
+    {
+      "question": "Equilibrium represents:",
+      "options": [
+        "50% of range",
+        "Stop loss",
+        "Resistance only",
+        "Indicator signal"
+      ],
+      "answer": 0,
+      "explanation": "Equilibrium is typically the 50% level of a price range."
+    }
+  ]
+}

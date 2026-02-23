@@ -1,0 +1,64 @@
+{
+  "title": "Decoding Market Structure Part 2 Bonus",
+  "description": "Understanding equal highs, inducement, liquidity sweeps, and high-probability setups.",
+  "videoUrl": "https://youtu.be/ZIy6vxdg1ZA",
+  "duration": "27 mins",
+  "content": "In this lesson, you'll learn:\n\n• Equal highs as liquidity repositories\n• Inducement trap mechanics\n• Valid structural shift requirements\n• Liquidity sweeps and expansion\n• Confluence with structure and liquidity\n• Reducing uncertainty through alignment",
+  "quiz": [
+    {
+      "question": "Equal highs typically hold:",
+      "options": [
+        "Resistance only",
+        "Stop liquidity",
+        "Indicator signals",
+        "Discount zone"
+      ],
+      "answer": 1,
+      "explanation": "Equal highs are where stop losses and orders cluster, holding liquidity for institutions to grab."
+    },
+    {
+      "question": "Inducement is used to:",
+      "options": [
+        "Confirm breakout",
+        "Trap early traders",
+        "Reduce volatility",
+        "Flatten market"
+      ],
+      "answer": 1,
+      "explanation": "Inducement is when price moves falsely to trap traders before the real move begins."
+    },
+    {
+      "question": "Valid structural shift requires:",
+      "options": [
+        "Wick break",
+        "Strong body close",
+        "Volume drop",
+        "Small candles"
+      ],
+      "answer": 1,
+      "explanation": "A valid shift requires a strong closing candle beyond the level, not just a wick touch."
+    },
+    {
+      "question": "Liquidity sweep often leads to:",
+      "options": [
+        "Expansion",
+        "Flat range",
+        "Market close",
+        "Spread freeze"
+      ],
+      "answer": 0,
+      "explanation": "After grabbing liquidity, price typically expands in the intended direction."
+    },
+    {
+      "question": "Structure + liquidity confluence reduces:",
+      "options": [
+        "Discipline",
+        "Uncertainty",
+        "Volatility",
+        "Range"
+      ],
+      "answer": 1,
+      "explanation": "When structure aligns with liquidity, uncertainty decreases and probability increases."
+    }
+  ]
+}

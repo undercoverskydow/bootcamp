@@ -1,0 +1,64 @@
+{
+  "title": "DAY 7 - TS Intro",
+  "description": "Introduction to trading systems, defining rules, and backtesting the system.",
+  "videoUrl": "https://youtu.be/Vex1hb5PvDc",
+  "duration": "23 mins",
+  "content": "In this lesson, you'll learn:\n\n• What a trading system (TS) must include\n• Defining clear entry, stop loss, and take profit rules\n• Backtesting methodology and importance\n• How a valid system removes emotions\n• Rules-based trading for consistency\n• System refinement process",
+  "quiz": [
+    {
+      "question": "A trading system (TS) must include:",
+      "options": [
+        "Entry, SL, TP rules",
+        "Random ideas",
+        "News only",
+        "Social media tips"
+      ],
+      "answer": 0,
+      "explanation": "A complete trading system must define precise entry, stop loss, and take profit rules."
+    },
+    {
+      "question": "Backtesting a system checks:",
+      "options": [
+        "Historical performance",
+        "Laptop speed",
+        "Broker quality",
+        "Chart layout"
+      ],
+      "answer": 0,
+      "explanation": "Backtesting reveals how your system would have performed on historical data."
+    },
+    {
+      "question": "A valid TS removes:",
+      "options": [
+        "Emotions",
+        "Structure",
+        "Risk control",
+        "Bias"
+      ],
+      "answer": 0,
+      "explanation": "A properly defined system removes emotional decision-making by using consistent rules."
+    },
+    {
+      "question": "Rules-based trading creates:",
+      "options": [
+        "Consistency",
+        "Overtrading",
+        "Confusion",
+        "Random entries"
+      ],
+      "answer": 0,
+      "explanation": "Consistent rules lead to consistent trading behavior and results."
+    },
+    {
+      "question": "System refinement improves:",
+      "options": [
+        "Edge",
+        "Spread",
+        "Volatility",
+        "Broker leverage"
+      ],
+      "answer": 0,
+      "explanation": "Continuous refinement of your system improves your trading edge over time."
+    }
+  ]
+}

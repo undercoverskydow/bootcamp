@@ -1,0 +1,64 @@
+{
+  "title": "DAY 12 Validation CRT AND INVALIDATION CRT",
+  "description": "Understanding confirmation and invalidation of trading setups using structural analysis.",
+  "videoUrl": "https://youtu.be/mLXW82-Oaxk",
+  "duration": "25 mins",
+  "content": "In this lesson, you'll learn:\n\n• What CRT (Confirmation Ready Trade) means\n• CRT validation requirements\n• Invalidation of trading bias\n• Confirmation candle characteristics\n• Bias formation based on structure\n• Consequences of ignoring invalidation",
+  "quiz": [
+    {
+      "question": "CRT validation requires:",
+      "options": [
+        "Liquidity alignment",
+        "Indicator crossover",
+        "Random breakout",
+        "Volume drop"
+      ],
+      "answer": 0,
+      "explanation": "CRT validation needs alignment between your bias and liquidity levels."
+    },
+    {
+      "question": "Invalidation occurs when:",
+      "options": [
+        "Opposite structure breaks",
+        "Spread narrows",
+        "Candle small",
+        "Market flat"
+      ],
+      "answer": 0,
+      "explanation": "Bias is invalidated when the opposite structure breaks or a new structural level is reached."
+    },
+    {
+      "question": "Confirmation candle must:",
+      "options": [
+        "Close decisively",
+        "Wick only",
+        "Be doji",
+        "Be equal high"
+      ],
+      "answer": 0,
+      "explanation": "Confirmation candles must close decisively beyond the level, not just touch with a wick."
+    },
+    {
+      "question": "Bias formation depends on:",
+      "options": [
+        "Structure + Liquidity",
+        "Indicator only",
+        "News only",
+        "Volume only"
+      ],
+      "answer": 0,
+      "explanation": "Bias should be based on structural analysis combined with liquidity placement."
+    },
+    {
+      "question": "Ignoring invalidation leads to:",
+      "options": [
+        "Better RR",
+        "Larger losses",
+        "Higher accuracy",
+        "Discipline"
+      ],
+      "answer": 1,
+      "explanation": "Ignoring invalidation means continuing to trade a dead bias, leading to losses."
+    }
+  ]
+}

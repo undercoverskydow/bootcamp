@@ -1,0 +1,64 @@
+{
+  "title": "Final Method Midnight Open Bias Goodbye Method for Forex and Indices",
+  "description": "Understanding midnight open bias for Forex and indices intraday trading.",
+  "videoUrl": "https://youtu.be/GMQx_yVFsi4",
+  "duration": "23 mins",
+  "content": "In this lesson, you'll learn:\n\n• Midnight open concept\n• Using midnight open for daily bias\n• Price placement above/below midnight\n• Combining with liquidity targets\n• Market selection for the model\n• Intraday application and timing",
+  "quiz": [
+    {
+      "question": "Midnight Open is used to determine:",
+      "options": [
+        "Weekly bias",
+        "Intraday directional bias",
+        "Indicator setup",
+        "Volume spike"
+      ],
+      "answer": 1,
+      "explanation": "Midnight Open provides the directional bias for intraday trading."
+    },
+    {
+      "question": "Price above midnight open suggests:",
+      "options": [
+        "Bearish bias",
+        "Bullish bias",
+        "Consolidation",
+        "No bias"
+      ],
+      "answer": 1,
+      "explanation": "Price trading above midnight open indicates bullish bias for the day."
+    },
+    {
+      "question": "The model works best when combined with:",
+      "options": [
+        "Liquidity targets",
+        "RSI",
+        "Moving averages",
+        "News only"
+      ],
+      "answer": 0,
+      "explanation": "Midnight bias is most effective when combined with liquidity level targeting."
+    },
+    {
+      "question": "Bias failure occurs when:",
+      "options": [
+        "Structure confirms opposite direction",
+        "Candle closes strong",
+        "Spread tightens",
+        "Volume rises"
+      ],
+      "answer": 0,
+      "explanation": "Bias fails when structural breaks occur in the opposite direction."
+    },
+    {
+      "question": "Midnight model is mainly applied for:",
+      "options": [
+        "Long-term investing",
+        "Intraday trading",
+        "Swing trading only",
+        "Scalping crypto only"
+      ],
+      "answer": 1,
+      "explanation": "The midnight open model is optimized for intraday trading decisions."
+    }
+  ]
+}

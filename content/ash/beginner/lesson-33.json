@@ -1,0 +1,64 @@
+{
+  "title": "ICT 2024 Asia Model / ATM Machine",
+  "description": "Understanding the Asia model and ATM (Automated Trading Machine) concept.",
+  "videoUrl": "https://youtu.be/OsffqHknJnA",
+  "duration": "24 mins",
+  "content": "In this lesson, you'll learn:\n\n• Asia session characteristics\n• Range manipulation during Asia\n• ATM Machine concept\n• Gap magnet mechanics\n• Asia high/low as liquidity pools\n• Session expansion timing",
+  "quiz": [
+    {
+      "question": "Asia model focuses on:",
+      "options": [
+        "Asian session range",
+        "News trading",
+        "Indicators",
+        "Weekly swing"
+      ],
+      "answer": 0,
+      "explanation": "The Asia model analyzes price action and range formation during the Asian session."
+    },
+    {
+      "question": "Range manipulation during Asia often:",
+      "options": [
+        "Builds liquidity",
+        "Ends trend",
+        "Closes market",
+        "Reduces volatility"
+      ],
+      "answer": 0,
+      "explanation": "Smart money builds liquidity pools at ranges during lower volatility Asia hours."
+    },
+    {
+      "question": "Expansion typically happens during:",
+      "options": [
+        "London/NY session",
+        "Midnight",
+        "Weekend",
+        "Holiday"
+      ],
+      "answer": 0,
+      "explanation": "After Asia builds the range, London/NY sessions deliver the expansion move."
+    },
+    {
+      "question": "ATM concept is linked to:",
+      "options": [
+        "Gap magnet logic",
+        "RSI divergence",
+        "Volume spike",
+        "Equal lows"
+      ],
+      "answer": 0,
+      "explanation": "ATM is related to the gap magnet concept where price is pulled back to fill gaps."
+    },
+    {
+      "question": "Asia high/low acts as:",
+      "options": [
+        "Liquidity pool",
+        "Indicator",
+        "Random zone",
+        "Spread level"
+      ],
+      "answer": 0,
+      "explanation": "Asia high/low levels accumulate liquidity that becomes targets for later sessions."
+    }
+  ]
+}

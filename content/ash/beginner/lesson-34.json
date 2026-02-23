@@ -1,0 +1,64 @@
+{
+  "title": "ICT ATM Model – Open Gap Magnet Concept",
+  "description": "Deep dive into the gap magnet concept and how price is drawn to open gaps.",
+  "videoUrl": "https://youtu.be/Hh_1rF6ABJU",
+  "duration": "25 mins",
+  "content": "In this lesson, you'll learn:\n\n• Gap magnet concept definition\n• Open gap formation between sessions\n• Why price returns to gaps\n• Gap fill probability factors\n• Trading the gap with structure\n• Time-based gap model application",
+  "quiz": [
+    {
+      "question": "Gap magnet concept implies price is drawn to:",
+      "options": [
+        "Open gap imbalance",
+        "Equal highs",
+        "Indicator cross",
+        "Volume spike"
+      ],
+      "answer": 0,
+      "explanation": "Gap magnet principle states price is attracted to return to and fill open gaps."
+    },
+    {
+      "question": "Open gap typically forms between:",
+      "options": [
+        "Sessions",
+        "Candles",
+        "Indicators",
+        "Brokers"
+      ],
+      "answer": 0,
+      "explanation": "Open gaps form between trading sessions (e.g., weekend gaps, overnight gaps)."
+    },
+    {
+      "question": "Gap fill probability increases when:",
+      "options": [
+        "Liquidity aligns",
+        "Volume drops",
+        "Spread narrows",
+        "Candle small"
+      ],
+      "answer": 0,
+      "explanation": "Gaps with liquidity alignment have higher probability of being filled."
+    },
+    {
+      "question": "Trading the gap requires:",
+      "options": [
+        "Structure confirmation",
+        "Blind entry",
+        "No stop",
+        "News spike"
+      ],
+      "answer": 0,
+      "explanation": "Trading gaps should be done with structural confirmation, not blindly."
+    },
+    {
+      "question": "Gap magnet works best with:",
+      "options": [
+        "Time-based model",
+        "RSI",
+        "Moving average",
+        "Random breakout"
+      ],
+      "answer": 0,
+      "explanation": "Gap magnet is most effective when combined with time-based model principles."
+    }
+  ]
+}

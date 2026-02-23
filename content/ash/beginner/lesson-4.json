@@ -1,0 +1,64 @@
+{
+  "title": "Investing vs. Trading: What's the Difference?",
+  "description": "Understand the key differences between investing and trading, including time horizons, analysis methods, and risk approaches.",
+  "videoUrl": "https://youtu.be/_sdO55lkc_Q",
+  "duration": "14 mins",
+  "content": "In this lesson, you'll learn:\n\n• Trading focuses on short-term price movement\n• Investing focuses on long-term growth\n• The role of technical vs fundamental analysis\n• Different time horizons and their implications\n• How to choose the right approach for your goals",
+  "quiz": [
+    {
+      "question": "Trading usually focuses on:",
+      "options": [
+        "Long-term holding",
+        "Short-term price movement",
+        "Dividends",
+        "Real estate"
+      ],
+      "answer": 1,
+      "explanation": "Trading emphasizes capturing short-term price movements through technical analysis and active management."
+    },
+    {
+      "question": "Investing typically involves:",
+      "options": [
+        "Scalping",
+        "Long-term growth",
+        "Tick trading",
+        "Intraday news spikes"
+      ],
+      "answer": 1,
+      "explanation": "Investing focuses on long-term wealth accumulation through fundamental analysis and holding positions over extended periods."
+    },
+    {
+      "question": "Traders rely heavily on:",
+      "options": [
+        "Technical analysis",
+        "Property valuation",
+        "Rental yield",
+        "Farming"
+      ],
+      "answer": 0,
+      "explanation": "Traders use technical analysis to identify patterns, trends, and price levels for short-term trading decisions."
+    },
+    {
+      "question": "Investors are more concerned about:",
+      "options": [
+        "Macro fundamentals",
+        "1-minute candles",
+        "Spread size",
+        "Tick imbalance"
+      ],
+      "answer": 0,
+      "explanation": "Investors analyze macroeconomic factors and company fundamentals rather than minute-to-minute price action."
+    },
+    {
+      "question": "Time horizon difference mainly affects:",
+      "options": [
+        "Risk style",
+        "Laptop brand",
+        "Chart color",
+        "Internet speed"
+      ],
+      "answer": 0,
+      "explanation": "Time horizon determines the risk approach, analysis methods, and position management strategy."
+    }
+  ]
+}

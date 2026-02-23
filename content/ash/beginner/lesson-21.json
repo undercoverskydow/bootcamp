@@ -1,0 +1,64 @@
+{
+  "title": "Decoding Market Structure Unveiling the Secrets Part 1 Bonus",
+  "description": "Deep dive into external structure, internal structure, and multi-timeframe alignment.",
+  "videoUrl": "https://youtu.be/U2LmyigJRPo",
+  "duration": "28 mins",
+  "content": "In this lesson, you'll learn:\n\n• External structure defined by major swings\n• Internal structure for entry precision\n• Break of Structure (BOS) fundamentals\n• Change of Character (CHOCH) signals\n• Multi-timeframe alignment importance\n• Increasing probability through convergence",
+  "quiz": [
+    {
+      "question": "External structure is defined by:",
+      "options": [
+        "Minor pullbacks",
+        "Major swing highs and lows",
+        "Indicator signals",
+        "Volume spikes"
+      ],
+      "answer": 1,
+      "explanation": "External structure is formed by the major swing highs and lows on higher timeframes."
+    },
+    {
+      "question": "Internal structure helps refine:",
+      "options": [
+        "Emotional bias",
+        "Entry precision",
+        "Spread size",
+        "Random entries"
+      ],
+      "answer": 1,
+      "explanation": "Internal structure on lower timeframes helps fine-tune exact entry points."
+    },
+    {
+      "question": "Break of Structure (BOS) confirms:",
+      "options": [
+        "Trend continuation",
+        "Range only",
+        "News spike",
+        "Spread shift"
+      ],
+      "answer": 0,
+      "explanation": "BOS is confirmed when price breaks through a previous level, signaling potential continuation."
+    },
+    {
+      "question": "Change of Character (CHOCH) signals:",
+      "options": [
+        "Guaranteed reversal",
+        "Possible directional shift",
+        "Consolidation only",
+        "Liquidity removal"
+      ],
+      "answer": 1,
+      "explanation": "CHOCH indicates a possible directional change but not a guaranteed reversal."
+    },
+    {
+      "question": "Multi-timeframe alignment increases:",
+      "options": [
+        "Randomness",
+        "Probability",
+        "Emotional bias",
+        "Spread"
+      ],
+      "answer": 1,
+      "explanation": "When multiple timeframes confirm the same direction, probability of success increases significantly."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "ORDERFLOW SETUP A+ The ICT Reaper (Bitcoin & ETH)",
+  "description": "Advanced A+ setup for Bitcoin and ETH using orderflow and ICT principles.",
+  "videoUrl": "https://youtu.be/1JqELMubt9w",
+  "duration": "29 mins",
+  "content": "In this lesson, you'll learn:\n\n• What constitutes an A+ setup\n• Liquidity sweep identification\n• Displacement recognition\n• Orderflow shift mechanisms\n• Crypto volatility management\n• HTF confluence for confirmation",
+  "quiz": [
+    {
+      "question": "An A+ setup requires:",
+      "options": [
+        "Random breakout",
+        "Clear liquidity sweep + displacement",
+        "Indicator crossover",
+        "News spike"
+      ],
+      "answer": 1,
+      "explanation": "A+ setups show clear liquidity grab followed by strong impulsive displacement."
+    },
+    {
+      "question": "Orderflow shift is identified by:",
+      "options": [
+        "Weak candles",
+        "Strong impulsive move",
+        "Equal highs",
+        "Small range"
+      ],
+      "answer": 1,
+      "explanation": "Strong orderflow shift creates consecutive strong candles in one direction."
+    },
+    {
+      "question": "Crypto volatility requires:",
+      "options": [
+        "Wider stop placement logic",
+        "No stop loss",
+        "Emotional trading",
+        "High leverage only"
+      ],
+      "answer": 0,
+      "explanation": "Crypto's high volatility means wider stops are needed to avoid getting shaken out."
+    },
+    {
+      "question": "A true reaper entry occurs after:",
+      "options": [
+        "Liquidity grab",
+        "Consolidation",
+        "Spread widening",
+        "Indicator cross"
+      ],
+      "answer": 0,
+      "explanation": "Reaper entries happen after liquidity is grabbed and the expansion begins."
+    },
+    {
+      "question": "HTF confluence improves:",
+      "options": [
+        "Accuracy",
+        "Randomness",
+        "Spread",
+        "Fear"
+      ],
+      "answer": 0,
+      "explanation": "When higher timeframes confirm the A+ setup, accuracy improves significantly."
+    }
+  ]
+}

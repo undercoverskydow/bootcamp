@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training Day 5 Part 1",
+  "description": "Understanding trading bias, higher timeframe bias, and how to use bias for trading decisions.",
+  "videoUrl": "https://youtu.be/9fD4CFKTHTE",
+  "duration": "20 mins",
+  "content": "In this lesson, you'll learn:\n\n• What bias means in trading context\n• How to form directional bias\n• Using daily bias for lower timeframe entries\n• HTF bias overriding LTF noise\n• The dangers of trading without bias\n• How to align bias with structure and liquidity",
+  "quiz": [
+    {
+      "question": "Bias in trading means:",
+      "options": [
+        "Emotional opinion",
+        "Directional expectation",
+        "Random guess",
+        "Indicator color"
+      ],
+      "answer": 1,
+      "explanation": "Bias is your directional expectation based on structural analysis, not emotions or guesses."
+    },
+    {
+      "question": "Daily bias helps:",
+      "options": [
+        "Lower timeframe entries",
+        "Laptop performance",
+        "Spread reduction",
+        "Internet speed"
+      ],
+      "answer": 0,
+      "explanation": "Daily bias provides context and direction for making better entries on lower timeframes."
+    },
+    {
+      "question": "HTF bias overrides:",
+      "options": [
+        "Minor LTF noise",
+        "Broker spread",
+        "Indicators",
+        "Chart theme"
+      ],
+      "answer": 0,
+      "explanation": "Higher timeframe bias should override lower timeframe noise to prevent trading against major trends."
+    },
+    {
+      "question": "A wrong bias leads to:",
+      "options": [
+        "Clear entries",
+        "Forced trades",
+        "Perfect RR",
+        "Guaranteed wins"
+      ],
+      "answer": 1,
+      "explanation": "Incorrect bias causes traders to force entries and trade against the prevailing trend."
+    },
+    {
+      "question": "Bias should be based on:",
+      "options": [
+        "Structure and liquidity",
+        "Feelings",
+        "News only",
+        "Random choice"
+      ],
+      "answer": 0,
+      "explanation": "Bias must be grounded in objective market structure and liquidity analysis, not subjective factors."
+    }
+  ]
+}

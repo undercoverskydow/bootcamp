@@ -1,0 +1,64 @@
+{
+  "title": "ICT 2024 MACRO 09:30 FVG/IFVG (CME)",
+  "description": "Understanding 09:30 macro concepts and Fair Value Gaps at NY session open.",
+  "videoUrl": "https://youtu.be/TvY8DvCiVvw",
+  "duration": "26 mins",
+  "content": "In this lesson, you'll learn:\n\n• 09:30 macro definition (NY session open)\n• Fair Value Gap (FVG) formation at session open\n• Inverse Fair Value Gap (IFVG)\n• Institutional order execution timing\n• Macro windows and volatility\n• Combining macro timing with FVG",
+  "quiz": [
+    {
+      "question": "09:30 macro refers to:",
+      "options": [
+        "London open",
+        "NY session open",
+        "Asia open",
+        "Market close"
+      ],
+      "answer": 1,
+      "explanation": "09:30 macro is the New York session open, a key institutional activity window."
+    },
+    {
+      "question": "FVG represents:",
+      "options": [
+        "Price inefficiency",
+        "Equal highs",
+        "Indicator signal",
+        "Volume drop"
+      ],
+      "answer": 0,
+      "explanation": "FVG is an unfilled price gap that forms due to inefficient price movement."
+    },
+    {
+      "question": "IFVG forms when:",
+      "options": [
+        "Gap is respected opposite direction",
+        "Volume rises",
+        "Spread narrows",
+        "Candle small"
+      ],
+      "answer": 0,
+      "explanation": "Inverse FVG forms when price gaps and then returns in the opposite direction to fill it."
+    },
+    {
+      "question": "Macro windows are important because:",
+      "options": [
+        "Institutions execute orders",
+        "Spread freezes",
+        "Volume low",
+        "Market closed"
+      ],
+      "answer": 0,
+      "explanation": "Macro windows like 09:30 see heavy institutional order execution and volatility."
+    },
+    {
+      "question": "Combining macro time + FVG increases:",
+      "options": [
+        "Precision",
+        "Random entries",
+        "Emotional bias",
+        "Overtrading"
+      ],
+      "answer": 0,
+      "explanation": "Trading FVGs at macro windows significantly increases entry precision and probability."
+    }
+  ]
+}

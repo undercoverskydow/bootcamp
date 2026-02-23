@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training Day 3",
+  "description": "Understanding impulse moves, consolidation, expansion, and price delivery concepts.",
+  "videoUrl": "https://youtu.be/AY7ffE_0CfE",
+  "duration": "24 mins",
+  "content": "In this lesson, you'll learn:\n\n• What defines a strong impulse move\n• How consolidation relates to distribution/accumulation\n• Expansion phase after compression\n• Momentum shift signals\n• Price delivery from level to level\n• Reading the market's intention",
+  "quiz": [
+    {
+      "question": "What defines a strong impulse move?",
+      "options": [
+        "Small candles",
+        "Consecutive strong bodies",
+        "Equal highs",
+        "Low volume"
+      ],
+      "answer": 1,
+      "explanation": "Strong impulse moves are characterized by consecutive candles with large bodies in the direction of the trend."
+    },
+    {
+      "question": "Consolidation typically represents:",
+      "options": [
+        "Distribution or accumulation",
+        "Trend confirmation",
+        "Stop loss",
+        "News spike"
+      ],
+      "answer": 0,
+      "explanation": "Consolidation phases represent either accumulation (before upMove) or distribution (before downMove)."
+    },
+    {
+      "question": "Expansion follows:",
+      "options": [
+        "Randomness",
+        "Compression phase",
+        "Broker updates",
+        "Indicator lag"
+      ],
+      "answer": 1,
+      "explanation": "Expansion typically follows a consolidation/compression phase, releasing the buildup of energy."
+    },
+    {
+      "question": "Momentum shift may signal:",
+      "options": [
+        "Continuation only",
+        "Possible reversal",
+        "Chart error",
+        "Spread issue"
+      ],
+      "answer": 1,
+      "explanation": "Shift in momentum can indicate either trend continuation with renewed strength or a potential reversal."
+    },
+    {
+      "question": "Price delivery is:",
+      "options": [
+        "Random movement",
+        "Structured movement from level to level",
+        "News only",
+        "Weekend gap"
+      ],
+      "answer": 1,
+      "explanation": "Price moves in a structured manner from liquidity to liquidity, level to level, not randomly."
+    }
+  ]
+}

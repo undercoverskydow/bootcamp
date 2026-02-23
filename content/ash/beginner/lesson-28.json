@@ -1,0 +1,64 @@
+{
+  "title": "BACKTESTING CRT DAY GOOD AND BAD CONFIRMATION",
+  "description": "Identifying good vs bad confirmations in backtesting and filtering setups.",
+  "videoUrl": "https://youtu.be/vz_yL1oM5_M",
+  "duration": "27 mins",
+  "content": "In this lesson, you'll learn:\n\n• Proper backtesting methodology\n• Good confirmation characteristics\n• Bad confirmation warning signs\n• Liquidity sweep + structure shift importance\n• Filtering low-quality setups\n• Improving system probability",
+  "quiz": [
+    {
+      "question": "A valid backtest must include:",
+      "options": [
+        "Random trades",
+        "Defined model rules",
+        "Emotional bias",
+        "News reactions only"
+      ],
+      "answer": 1,
+      "explanation": "Valid backtesting follows defined rules consistently without emotions or exceptions."
+    },
+    {
+      "question": "Good confirmation in CRT typically includes:",
+      "options": [
+        "Weak displacement",
+        "Liquidity sweep + structure shift",
+        "Equal highs only",
+        "Small candles"
+      ],
+      "answer": 1,
+      "explanation": "Best confirmations show liquidity grab followed by structural break."
+    },
+    {
+      "question": "Bad confirmation often shows:",
+      "options": [
+        "Strong momentum",
+        "No displacement after entry",
+        "HTF alignment",
+        "Clean BOS"
+      ],
+      "answer": 1,
+      "explanation": "Weak confirmations lack follow-through momentum after the setup forms."
+    },
+    {
+      "question": "Backtesting primarily measures:",
+      "options": [
+        "Historical probability",
+        "Broker spread",
+        "Indicator lag",
+        "Social sentiment"
+      ],
+      "answer": 0,
+      "explanation": "Backtesting reveals the historical win rate and edge of your trading system."
+    },
+    {
+      "question": "The purpose of identifying bad confirmations is to:",
+      "options": [
+        "Increase lot size",
+        "Filter low-quality setups",
+        "Trade more frequently",
+        "Ignore risk"
+      ],
+      "answer": 1,
+      "explanation": "Identifying bad signals allows you to skip low-probability trades and improve overall returns."
+    }
+  ]
+}

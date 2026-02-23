@@ -1,0 +1,64 @@
+{
+  "title": "Daily Bias Explained PO3 + Tips",
+  "description": "Understanding daily bias through PO3 phases and practical implementation tips.",
+  "videoUrl": "https://youtu.be/KuvcXxTBgnE",
+  "duration": "25 mins",
+  "content": "In this lesson, you'll learn:\n\n• PO3 phases explained\n• Accumulation, Manipulation, Distribution details\n• Daily bias construction\n• Combining PO3 with bias\n• Practical trading tips\n• Timing precision with phases",
+  "quiz": [
+    {
+      "question": "PO3 stands for:",
+      "options": [
+        "Pattern of 3",
+        "Power of Three",
+        "Price of 3",
+        "Phase of 3"
+      ],
+      "answer": 1,
+      "explanation": "PO3 stands for Power of Three, the three-phase market model."
+    },
+    {
+      "question": "PO3 phases are:",
+      "options": [
+        "Accumulation, Manipulation, Distribution",
+        "Buy, Sell, Hold",
+        "Trend, Range, Break",
+        "Entry, Stop, Exit"
+      ],
+      "answer": 0,
+      "explanation": "The three phases are distinctly: Accumulation (base building), Manipulation (trapping), and Distribution (selling)."
+    },
+    {
+      "question": "Manipulation phase usually:",
+      "options": [
+        "Sweeps liquidity",
+        "Trends cleanly",
+        "Moves randomly",
+        "Closes market"
+      ],
+      "answer": 0,
+      "explanation": "Manipulation phase grabs stops and liquidity to trap traders before the main move."
+    },
+    {
+      "question": "Distribution phase delivers:",
+      "options": [
+        "Main expansion move",
+        "Consolidation",
+        "Spread freeze",
+        "Volume drop"
+      ],
+      "answer": 0,
+      "explanation": "Distribution is when the main expansion move occurs, delivering profits."
+    },
+    {
+      "question": "Daily bias combined with PO3 improves:",
+      "options": [
+        "Timing precision",
+        "Emotional trading",
+        "Random entries",
+        "Overexposure"
+      ],
+      "answer": 0,
+      "explanation": "Combining daily bias with PO3 phases provides superior timing and entry precision."
+    }
+  ]
+}

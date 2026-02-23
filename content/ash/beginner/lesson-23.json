@@ -1,0 +1,64 @@
+{
+  "title": "DAY 9 TS MODEL 1",
+  "description": "Building a trading model with defined entry, stop loss, and target rules.",
+  "videoUrl": "https://youtu.be/OQ6vlYS35bs",
+  "duration": "26 mins",
+  "content": "In this lesson, you'll learn:\n\n• Components of a trading model\n• Defining precise entry rules\n• Stop loss placement logic\n• Profit target calculation\n• Backtesting your model\n• Testing consistency and edge",
+  "quiz": [
+    {
+      "question": "A trading model must define:",
+      "options": [
+        "Entry",
+        "Stop Loss",
+        "Target",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "A complete model specifies entry conditions, stop loss levels, and profit target rules."
+    },
+    {
+      "question": "Backtesting measures:",
+      "options": [
+        "Spread",
+        "Historical edge",
+        "News impact",
+        "Volume only"
+      ],
+      "answer": 1,
+      "explanation": "Backtesting reveals whether your model has an edge based on historical data."
+    },
+    {
+      "question": "Risk per trade should be:",
+      "options": [
+        "Fixed %",
+        "Random",
+        "Increasing daily",
+        "Based on mood"
+      ],
+      "answer": 0,
+      "explanation": "Risk per trade must be fixed at a percentage to maintain consistency."
+    },
+    {
+      "question": "A model fails when:",
+      "options": [
+        "Loss occurs",
+        "Rules are broken",
+        "Spread widens",
+        "News hits"
+      ],
+      "answer": 1,
+      "explanation": "A model fails when rules are violated, not when a single loss occurs."
+    },
+    {
+      "question": "System consistency depends on:",
+      "options": [
+        "Discipline",
+        "Indicators",
+        "News",
+        "Volume"
+      ],
+      "answer": 0,
+      "explanation": "Consistency requires discipline to follow the defined rules every single time."
+    }
+  ]
+}

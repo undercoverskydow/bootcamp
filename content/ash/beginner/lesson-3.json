@@ -1,0 +1,64 @@
+{
+  "title": "Intro",
+  "description": "Introduction to trading bootcamp - Learn the primary objectives and foundation principles of becoming a successful trader.",
+  "videoUrl": "https://www.youtube.com/watch?v=qtqP8dXl1Fo&t=3s",
+  "duration": "12 mins",
+  "content": "In this lesson, you'll learn:\n\n• The primary objective of a trading bootcamp\n• How to focus on structured skill development\n• The importance of discipline and rules\n• Why psychology and risk management form the foundation\n• Learning before earning approach",
+  "quiz": [
+    {
+      "question": "What is the primary objective of a trading bootcamp?",
+      "options": [
+        "Entertainment",
+        "Structured skill development",
+        "Gambling practice",
+        "Fast profit only"
+      ],
+      "answer": 1,
+      "explanation": "A trading bootcamp focuses on structured skill development, teaching systematic approaches to trading rather than gambling or seeking quick profits."
+    },
+    {
+      "question": "A trader should first focus on:",
+      "options": [
+        "Strategy understanding",
+        "Buying signals",
+        "High leverage",
+        "Copying others"
+      ],
+      "answer": 0,
+      "explanation": "Understanding strategy comes before implementing signals. A solid foundation in strategy prevents costly mistakes."
+    },
+    {
+      "question": "Consistency in trading comes from:",
+      "options": [
+        "Luck",
+        "Discipline and rules",
+        "News guessing",
+        "Random entries"
+      ],
+      "answer": 1,
+      "explanation": "Consistency is built through discipline and adherence to well-defined trading rules, not luck or random entries."
+    },
+    {
+      "question": "The foundation of trading success is:",
+      "options": [
+        "Indicators",
+        "Psychology + Risk Management",
+        "Social media",
+        "AI bots"
+      ],
+      "answer": 1,
+      "explanation": "Psychology and risk management are the cornerstones of successful trading. Indicators are just tools."
+    },
+    {
+      "question": "Learning before earning means:",
+      "options": [
+        "Trade immediately",
+        "Master basics first",
+        "Borrow capital",
+        "Ignore risk"
+      ],
+      "answer": 1,
+      "explanation": "Master the fundamentals and practice strategies before risking real capital. This protects your account and builds proper habits."
+    }
+  ]
+}

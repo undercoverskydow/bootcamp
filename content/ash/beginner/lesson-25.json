@@ -1,0 +1,64 @@
+{
+  "title": "DAY 13 ORDERFLOW, HTF, LIQUIDITY",
+  "description": "Understanding displacement, FVG, HTF liquidity, and orderflow shifts.",
+  "videoUrl": "https://youtu.be/yKgStMsTQow",
+  "duration": "28 mins",
+  "content": "In this lesson, you'll learn:\n\n• What displacement indicates in trading\n• Fair Value Gap formation and mechanics\n• HTF liquidity as a major draw\n• Orderflow shift signals\n• Combining HTF and LTF analysis\n• Execution precision through alignment",
+  "quiz": [
+    {
+      "question": "Displacement indicates:",
+      "options": [
+        "Institutional momentum",
+        "Weak participation",
+        "Flat range",
+        "Spread freeze"
+      ],
+      "answer": 0,
+      "explanation": "Displacement is strong impulsive movement indicating institutional buying/selling."
+    },
+    {
+      "question": "Fair Value Gap forms due to:",
+      "options": [
+        "Price inefficiency",
+        "Equal highs",
+        "Volume drop",
+        "News halt"
+      ],
+      "answer": 0,
+      "explanation": "FVG occurs when there's an inefficient gap in price that traders later return to fill."
+    },
+    {
+      "question": "HTF liquidity acts as:",
+      "options": [
+        "Major draw on price",
+        "Minor level",
+        "Indicator",
+        "Random zone"
+      ],
+      "answer": 0,
+      "explanation": "Higher timeframe liquidity is a major magnet that price is drawn toward."
+    },
+    {
+      "question": "Orderflow shift signals:",
+      "options": [
+        "Momentum change",
+        "Spread widening",
+        "Indicator cross",
+        "Flat session"
+      ],
+      "answer": 0,
+      "explanation": "Shift in orderflow indicates changing momentum direction."
+    },
+    {
+      "question": "Alignment between HTF and LTF improves:",
+      "options": [
+        "Execution precision",
+        "Emotional bias",
+        "Risk exposure",
+        "Random entries"
+      ],
+      "answer": 0,
+      "explanation": "When HTF and LTF align, entries become more precise and probability increases."
+    }
+  ]
+}

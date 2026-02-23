@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training Day 5 Part 2",
+  "description": "Understanding the Power of Three (PO3) model: Accumulation, Manipulation, and Distribution phases.",
+  "videoUrl": "https://youtu.be/exZUGTWdbB4",
+  "duration": "27 mins",
+  "content": "In this lesson, you'll learn:\n\n• The three phases of PO3 model\n• Accumulation phase and its characteristics\n• Manipulation phase and stop hunting\n• Distribution phase and takeoff\n• How to identify each phase\n• Using PO3 for timing precision",
+  "quiz": [
+    {
+      "question": "PO3 consists of:",
+      "options": [
+        "Accumulation, Manipulation, Distribution",
+        "Buy, Sell, Hold",
+        "Trend, Range, Flat",
+        "News, Volatility, Gap"
+      ],
+      "answer": 0,
+      "explanation": "PO3 (Power of Three) has three distinct phases: Accumulation, Manipulation, and Distribution."
+    },
+    {
+      "question": "Manipulation phase usually:",
+      "options": [
+        "Traps traders",
+        "Closes market",
+        "Low volatility only",
+        "No movement"
+      ],
+      "answer": 0,
+      "explanation": "Manipulation phase tricks retail traders by creating false moves before the main expansion."
+    },
+    {
+      "question": "Distribution phase follows:",
+      "options": [
+        "Accumulation",
+        "Manipulation",
+        "Both A and B",
+        "News event"
+      ],
+      "answer": 2,
+      "explanation": "Distribution comes after both accumulation and manipulation, representing the selling phase."
+    },
+    {
+      "question": "Accumulation forms:",
+      "options": [
+        "During high volatility",
+        "Before expansion",
+        "After trend end only",
+        "Randomly"
+      ],
+      "answer": 1,
+      "explanation": "Accumulation phase typically forms before the expansion move begins."
+    },
+    {
+      "question": "PO3 model improves:",
+      "options": [
+        "Timing precision",
+        "Screen brightness",
+        "Spread",
+        "Broker choice"
+      ],
+      "answer": 0,
+      "explanation": "PO3 helps traders time their entries and exits more precisely by recognizing market phases."
+    }
+  ]
+}

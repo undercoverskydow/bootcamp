@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training Day 5 Part 3",
+  "description": "Understanding session timing, London and New York sessions, and time-based trading models.",
+  "videoUrl": "https://youtu.be/Uzi0b5tipLc",
+  "duration": "21 mins",
+  "content": "In this lesson, you'll learn:\n\n• How session timing affects liquidity\n• London session characteristics\n• New York session overlap significance\n• Kill zones and optimal trading times\n• Session bias alignment\n• Time-based trading models",
+  "quiz": [
+    {
+      "question": "Session timing affects:",
+      "options": [
+        "Liquidity",
+        "Candle color",
+        "Internet",
+        "Hardware"
+      ],
+      "answer": 0,
+      "explanation": "Different trading sessions have different liquidity levels, directly affecting spread and execution."
+    },
+    {
+      "question": "London session is known for:",
+      "options": [
+        "Increased volatility",
+        "No movement",
+        "Weekend gap",
+        "Low liquidity"
+      ],
+      "answer": 0,
+      "explanation": "The London session overlaps with Asia and sees increased volatility and volatility expansion."
+    },
+    {
+      "question": "NY session overlap creates:",
+      "options": [
+        "Higher liquidity",
+        "Flat market",
+        "No trades",
+        "Spread freeze"
+      ],
+      "answer": 0,
+      "explanation": "The overlap between London and New York sessions creates the highest liquidity and volatility."
+    },
+    {
+      "question": "Session bias must align with:",
+      "options": [
+        "Higher timeframe bias",
+        "Emotions",
+        "Random entries",
+        "Indicators only"
+      ],
+      "answer": 0,
+      "explanation": "Session-based bias should confirm the higher timeframe bias for stronger setups."
+    },
+    {
+      "question": "Time-based models depend on:",
+      "options": [
+        "Kill zones",
+        "Laptop brand",
+        "Mouse DPI",
+        "Chart color"
+      ],
+      "answer": 0,
+      "explanation": "Time-based models use kill zones (optimal trading windows) identified by session times and institutional activity."
+    }
+  ]
+}

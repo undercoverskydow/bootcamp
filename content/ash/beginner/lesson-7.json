@@ -1,0 +1,64 @@
+{
+  "title": "Ash Training Day 1.2",
+  "description": "Mastering breakouts, inducement, internal structure, and confirmation techniques.",
+  "videoUrl": "https://youtu.be/iGgk1dMjs24",
+  "duration": "23 mins",
+  "content": "In this lesson, you'll learn:\n\n• How to identify valid breakouts\n• Understanding inducement and traps\n• Internal structure on lower timeframes\n• Reaction zones from higher timeframe levels\n• Confirmation reduces risk and improves accuracy",
+  "quiz": [
+    {
+      "question": "What confirms a valid breakout?",
+      "options": [
+        "One wick",
+        "Strong body close beyond level",
+        "Small doji",
+        "Volume drop"
+      ],
+      "answer": 1,
+      "explanation": "A valid breakout needs a strong closing candle beyond the level, not just a wick touch."
+    },
+    {
+      "question": "Inducement in trading means:",
+      "options": [
+        "Random movement",
+        "Luring traders before reversal",
+        "News spike",
+        "Weekend gap"
+      ],
+      "answer": 1,
+      "explanation": "Inducement is when the market moves falsely in one direction to trap traders before reversing."
+    },
+    {
+      "question": "Internal structure refers to:",
+      "options": [
+        "Lower timeframe movement",
+        "Broker policy",
+        "Hardware specs",
+        "Internet lag"
+      ],
+      "answer": 0,
+      "explanation": "Internal structure is the detailed price action on lower timeframes within the larger timeframe structure."
+    },
+    {
+      "question": "Reaction from HTF zone suggests:",
+      "options": [
+        "Strong interest area",
+        "Weak chart",
+        "Bad broker",
+        "Spread widening"
+      ],
+      "answer": 0,
+      "explanation": "When price reacts from a higher timeframe level, it indicates strong institutional interest and a key trading zone."
+    },
+    {
+      "question": "Confirmation reduces:",
+      "options": [
+        "Risk exposure",
+        "Profit",
+        "Screen time",
+        "Charts"
+      ],
+      "answer": 0,
+      "explanation": "Waiting for confirmation before entry reduces false signals and minimizes unnecessary risk exposure."
+    }
+  ]
+}

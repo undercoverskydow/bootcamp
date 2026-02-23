@@ -1,0 +1,64 @@
+{
+  "title": "DAY 15 SILVER BULLET MODEL",
+  "description": "The Silver Bullet trading model focusing on time windows, structure, and FVG.",
+  "videoUrl": "https://youtu.be/VkgLJH6ONjg",
+  "duration": "24 mins",
+  "content": "In this lesson, you'll learn:\n\n• Silver Bullet model components\n• Specific time windows for high probability\n• Entry requirements: Structure + FVG\n• Kill zones explanation\n• Model execution requirements\n• Time + Liquidity combination",
+  "quiz": [
+    {
+      "question": "Silver Bullet focuses on:",
+      "options": [
+        "Specific time windows",
+        "Random entries",
+        "Indicators only",
+        "News trading"
+      ],
+      "answer": 0,
+      "explanation": "Silver Bullet targets specific high-probability time windows during the trading day."
+    },
+    {
+      "question": "Entry requires:",
+      "options": [
+        "Structure + FVG",
+        "RSI cross",
+        "Volume spike",
+        "Equal highs"
+      ],
+      "answer": 0,
+      "explanation": "Valid Silver Bullet entries need both structural confirmation and a Fair Value Gap."
+    },
+    {
+      "question": "Kill zones provide:",
+      "options": [
+        "High volatility window",
+        "Flat market",
+        "Spread freeze",
+        "Low liquidity"
+      ],
+      "answer": 0,
+      "explanation": "Kill zones are specific time periods with high volatility and institutional activity."
+    },
+    {
+      "question": "Model success requires:",
+      "options": [
+        "Strict execution",
+        "Guessing",
+        "Overleveraging",
+        "Emotional bias"
+      ],
+      "answer": 0,
+      "explanation": "The model only works when followed precisely without deviation."
+    },
+    {
+      "question": "Silver Bullet is based on:",
+      "options": [
+        "Time + Liquidity",
+        "Indicators",
+        "News only",
+        "Volume only"
+      ],
+      "answer": 0,
+      "explanation": "Silver Bullet combines time-based analysis with liquidity targeting."
+    }
+  ]
+}

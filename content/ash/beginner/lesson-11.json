@@ -1,0 +1,64 @@
+{
+  "title": "ASH TRAINING DAY 4",
+  "description": "Understanding price imbalances, Fair Value Gaps (FVG), and inefficient price movement.",
+  "videoUrl": "https://youtu.be/87lFjto6HXI",
+  "duration": "22 mins",
+  "content": "In this lesson, you'll learn:\n\n• What is imbalance in trading\n• Fair Value Gap (FVG) definition and formation\n• Why price returns to fill gaps\n• How to identify valid FVG setups\n• Using imbalance for structured trading\n• The relationship between structure and inefficiency",
+  "quiz": [
+    {
+      "question": "What is imbalance in trading?",
+      "options": [
+        "Equal buyers and sellers",
+        "Inefficient price movement",
+        "Broker manipulation",
+        "Spread increase"
+      ],
+      "answer": 1,
+      "explanation": "Imbalance occurs when there's inefficient price movement, creating gaps that price tends to revisit."
+    },
+    {
+      "question": "Fair Value Gap (FVG) represents:",
+      "options": [
+        "Balanced price",
+        "Unfilled price inefficiency",
+        "Support line",
+        "Indicator crossover"
+      ],
+      "answer": 1,
+      "explanation": "FVG is an unfilled price zone created by inefficient price movement that traders often target."
+    },
+    {
+      "question": "Price often returns to FVG to:",
+      "options": [
+        "Ignore it",
+        "Rebalance inefficiency",
+        "Close market",
+        "Create spread"
+      ],
+      "answer": 1,
+      "explanation": "Price is drawn back to FVG zones to rebalance the inefficiency that was created."
+    },
+    {
+      "question": "A valid FVG must:",
+      "options": [
+        "Be visible on structure",
+        "Be random",
+        "Be small only",
+        "Have no context"
+      ],
+      "answer": 0,
+      "explanation": "A valid FVG must be in context with the current market structure to be a reliable trading level."
+    },
+    {
+      "question": "Imbalance trading focuses on:",
+      "options": [
+        "Structure + inefficiency",
+        "Random signals",
+        "News only",
+        "Social media"
+      ],
+      "answer": 0,
+      "explanation": "Effective imbalance trading combines structural analysis with identification of inefficient gaps."
+    }
+  ]
+}
