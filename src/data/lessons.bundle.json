@@ -1,0 +1,4482 @@
+{
+  "adarsh": {
+    "beginner": [
+      {
+        "id": "adarsh-beginner-1",
+        "lesson_id": "adarsh-beginner-1",
+        "title": "Forex Foundation Part 1",
+        "video_url": "https://youtu.be/HU4XdX6OpxY?si=nHBtRugdKnWHJPKe",
+        "videoUrl": "https://youtu.be/HU4XdX6OpxY?si=nHBtRugdKnWHJPKe",
+        "description": "Introduction to Forex Foundation basics",
+        "quiz": [
+          {
+            "question": "What is the primary goal of Forex Foundation?",
+            "options": [
+              "Predict stock prices",
+              "Understand currency markets",
+              "Learn programming",
+              "Trade commodities"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Which market does Forex Foundation focus on?",
+            "options": [
+              "Cryptocurrency",
+              "Forex",
+              "Real Estate",
+              "Stocks"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Forex refers to trading in what?",
+            "options": [
+              "Bonds",
+              "Currencies",
+              "Stocks",
+              "Indices"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "The Forex Foundation helps traders understand:",
+            "options": [
+              "Weather patterns",
+              "Currency pairs",
+              "Movie ratings",
+              "Football scores"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A key concept in Forex is:",
+            "options": [
+              "P/E Ratio",
+              "Currency exchange",
+              "Dividend payout",
+              "Book value"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-10",
+        "lesson_id": "adarsh-beginner-10",
+        "title": "EP8: Candlestick",
+        "video_url": "https://youtu.be/H_FpKZu9Lmg?si=e-iZ5_U0EJi9mRDw",
+        "videoUrl": "https://youtu.be/H_FpKZu9Lmg?si=e-iZ5_U0EJi9mRDw",
+        "description": "Understanding candlestick patterns and price action",
+        "quiz": [
+          {
+            "question": "Candlesticks show:",
+            "options": [
+              "Price action",
+              "Weather",
+              "Sports",
+              "Music"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A bullish candle means:",
+            "options": [
+              "Price up",
+              "Price down",
+              "Flat",
+              "None"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Wicks show:",
+            "options": [
+              "Highs/lows",
+              "Volume",
+              "Time",
+              "Colors"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Candlestick patterns help:",
+            "options": [
+              "Predict moves",
+              "Cook food",
+              "Drive cars",
+              "Watch movies"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A candle's body shows:",
+            "options": [
+              "Open-close range",
+              "Weather",
+              "Songs",
+              "Maps"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-11",
+        "lesson_id": "adarsh-beginner-11",
+        "title": "EP9 - Market Structure",
+        "video_url": "https://youtu.be/G9z7elC9fas?si=B1VGNP7FFEe2WBIG",
+        "videoUrl": "https://youtu.be/G9z7elC9fas?si=B1VGNP7FFEe2WBIG",
+        "description": "Understanding market structure and trend analysis",
+        "quiz": [
+          {
+            "question": "Market structure shows:",
+            "options": [
+              "Trend direction",
+              "Weather",
+              "History",
+              "Music"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Higher highs indicate:",
+            "options": [
+              "Uptrend",
+              "Downtrend",
+              "Flat",
+              "None"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Lower lows indicate:",
+            "options": [
+              "Downtrend",
+              "Uptrend",
+              "Flat",
+              "Sports"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Support is:",
+            "options": [
+              "Price floor",
+              "Ceiling",
+              "Weather",
+              "Music"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Resistance is:",
+            "options": [
+              "Price ceiling",
+              "Floor",
+              "Rain",
+              "News"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-12",
+        "lesson_id": "adarsh-beginner-12",
+        "title": "EP9 - Structure Part 2",
+        "video_url": "https://youtu.be/RLjCeoXJsFA?si=SMKEHMkmIxUgDLNv",
+        "videoUrl": "https://youtu.be/RLjCeoXJsFA?si=SMKEHMkmIxUgDLNv",
+        "description": "Advanced market structure and zone analysis",
+        "quiz": [
+          {
+            "question": "Structure Part 2 continues:",
+            "options": [
+              "Market structure concepts",
+              "Movies",
+              "Games",
+              "Biology"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trends help traders:",
+            "options": [
+              "Find direction",
+              "Cook",
+              "Paint",
+              "Run"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Structure Part 2 likely covers:",
+            "options": [
+              "Zones",
+              "Music",
+              "Cars",
+              "Travel"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Zones help define:",
+            "options": [
+              "Breakouts",
+              "Recipes",
+              "Songs",
+              "Weather"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Understanding structure helps:",
+            "options": [
+              "Trading decisions",
+              "Sleeping",
+              "Texting",
+              "Gaming"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-2",
+        "lesson_id": "adarsh-beginner-2",
+        "title": "Forex Foundation Part 2",
+        "video_url": "https://youtu.be/z1E7P9vdSyI?si=MkW09Blx9AE4JVJk",
+        "videoUrl": "https://youtu.be/z1E7P9vdSyI?si=MkW09Blx9AE4JVJk",
+        "description": "Continuation of Forex Foundation basics",
+        "quiz": [
+          {
+            "question": "What continues from Foundation Part 1?",
+            "options": [
+              "Advanced coding",
+              "Forex basics",
+              "Cooking tips",
+              "Math puzzles"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Which term is key in Forex Part 2?",
+            "options": [
+              "Pip",
+              "CAGR",
+              "EPS",
+              "EBITDA"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A pip is used to measure:",
+            "options": [
+              "Stocks",
+              "Price movement in Forex",
+              "Real Estate",
+              "Options"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Forex Part 2 teaches about:",
+            "options": [
+              "Sports",
+              "Traders' mindset",
+              "Market mechanics",
+              "Geometry"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "question": "Which is likely explained in this video?",
+            "options": [
+              "Currency pairs",
+              "Baking recipes",
+              "Foreign languages",
+              "Poetry"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-3",
+        "lesson_id": "adarsh-beginner-3",
+        "title": "EP 3: RISK MANAGEMENT AND PSYCHOLOGY",
+        "video_url": "https://youtu.be/pOTnCxIK1VE?si=jNEfU4ldepFqsYjt",
+        "videoUrl": "https://youtu.be/pOTnCxIK1VE?si=jNEfU4ldepFqsYjt",
+        "description": "Risk management and trader psychology fundamentals",
+        "quiz": [
+          {
+            "question": "Risk Management in trading helps to:",
+            "options": [
+              "Lose more money",
+              "Protect capital",
+              "Write essays",
+              "None"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Trader psychology influences:",
+            "options": [
+              "Execution of trades",
+              "Weather",
+              "Phone battery",
+              "Car speed"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A tool in risk management is:",
+            "options": [
+              "Stop loss",
+              "Bookmark",
+              "Calendar",
+              "Alarm"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Fear and greed are part of:",
+            "options": [
+              "Economics",
+              "Trader psychology",
+              "Cooking",
+              "Physics"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Which reduces risk?",
+            "options": [
+              "Risk management",
+              "Ignoring charts",
+              "Sleeping",
+              "Random trades"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-4",
+        "lesson_id": "adarsh-beginner-4",
+        "title": "EP 4: PSYCHOLOGY trading (NP STORY)",
+        "video_url": "https://youtu.be/_-6KeVqVTPA?si=UeZ0aBIcTM-RJ7WT",
+        "videoUrl": "https://youtu.be/_-6KeVqVTPA?si=UeZ0aBIcTM-RJ7WT",
+        "description": "Trader psychology through real-world narratives",
+        "quiz": [
+          {
+            "question": "Trader psychology mainly deals with:",
+            "options": [
+              "Emotions in trading",
+              "Coding",
+              "Music",
+              "Biology"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "NP Story likely illustrates:",
+            "options": [
+              "A psychological concept",
+              "Sports game",
+              "Recipe",
+              "Movie summary"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Controlling emotions helps a trader to:",
+            "options": [
+              "Trade better",
+              "Sleep worse",
+              "Eat faster",
+              "Watch TV"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Fear of losing might cause:",
+            "options": [
+              "Better decisions",
+              "Hesitation",
+              "Running",
+              "Singing"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Greed affects a trader by:",
+            "options": [
+              "Improving psychology",
+              "Affecting decisions",
+              "Ignoring the market",
+              "Listening to songs"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-5",
+        "lesson_id": "adarsh-beginner-5",
+        "title": "EP 5: ECONOMIC NEWS",
+        "video_url": "https://youtu.be/_-6KeVqVTPA?si=kRhoYGuNeKKDy9fm",
+        "videoUrl": "https://youtu.be/_-6KeVqVTPA?si=kRhoYGuNeKKDy9fm",
+        "description": "Economic news and its impact on markets",
+        "quiz": [
+          {
+            "question": "Economic news impacts:",
+            "options": [
+              "Music charts",
+              "Financial markets",
+              "Movie ratings",
+              "Weather"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "An example of economic news is:",
+            "options": [
+              "GDP data",
+              "Sports score",
+              "Song release",
+              "TV show"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Traders watch news to:",
+            "options": [
+              "Predict moves",
+              "Eat food",
+              "Sleep",
+              "Drink coffee"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "News affects:",
+            "options": [
+              "Price volatility",
+              "Car speed",
+              "Phone apps",
+              "Fitness"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Economic calendars list:",
+            "options": [
+              "Events",
+              "Movies",
+              "Pets",
+              "Games"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-6",
+        "lesson_id": "adarsh-beginner-6",
+        "title": "EP6: TRADING VIEW",
+        "video_url": "https://youtu.be/BcQOSppk8_Q?si=Uf6-Re613_rlYy1u",
+        "videoUrl": "https://youtu.be/BcQOSppk8_Q?si=Uf6-Re613_rlYy1u",
+        "description": "Introduction to TradingView platform",
+        "quiz": [
+          {
+            "question": "TradingView is used to:",
+            "options": [
+              "Draw charts",
+              "Play games",
+              "Edit videos",
+              "Cook food"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A primary feature of TradingView is:",
+            "options": [
+              "Charting",
+              "Listening to music",
+              "Text editing",
+              "Painting"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "You can analyze markets using:",
+            "options": [
+              "TradingView",
+              "Calculator",
+              "TV",
+              "Camera"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "TradingView helps traders with:",
+            "options": [
+              "Indicators",
+              "Sports",
+              "Cooking",
+              "Math tests"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A trader view shows:",
+            "options": [
+              "Price charts",
+              "Weather",
+              "News films",
+              "Songs"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-7",
+        "lesson_id": "adarsh-beginner-7",
+        "title": "EP7: MT5 PART 1",
+        "video_url": "https://youtu.be/Uizutfordds?si=PvzY9giL5wzc9P65",
+        "videoUrl": "https://youtu.be/Uizutfordds?si=PvzY9giL5wzc9P65",
+        "description": "Introduction to MetaTrader 5 platform basics",
+        "quiz": [
+          {
+            "question": "MT5 stands for:",
+            "options": [
+              "MetaTrader 5",
+              "Movie Title 5",
+              "Music Team 5",
+              "None"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "MT5 is used for:",
+            "options": [
+              "Trading",
+              "Cooking",
+              "Driving",
+              "Swimming"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Part 1 teaches:",
+            "options": [
+              "Platform basics",
+              "Geography",
+              "History",
+              "Biology"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "MT5 displays:",
+            "options": [
+              "Charts",
+              "Maps",
+              "Movies",
+              "Photos"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Traders use MT5 to:",
+            "options": [
+              "Place trades",
+              "Sing songs",
+              "Sleep",
+              "Shop online"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-8",
+        "lesson_id": "adarsh-beginner-8",
+        "title": "EP7: MT5 PART 2",
+        "video_url": "https://youtu.be/Cc_Zhh0QPoE?si=ARTo4f6UBDJkiWDu",
+        "videoUrl": "https://youtu.be/Cc_Zhh0QPoE?si=ARTo4f6UBDJkiWDu",
+        "description": "Advanced MetaTrader 5 features and functionality",
+        "quiz": [
+          {
+            "question": "MT5 Part 2 likely continues:",
+            "options": [
+              "Advanced MT5 features",
+              "Gardening",
+              "Painting",
+              "Reading"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "MT5 can place:",
+            "options": [
+              "Orders",
+              "Photos",
+              "Videos",
+              "Emails"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Risk tools in MT5 are:",
+            "options": [
+              "Stop loss",
+              "Music",
+              "Stories",
+              "Books"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "MT5 allows:",
+            "options": [
+              "Indicators",
+              "Temperature",
+              "Games",
+              "Maps"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "MT5 Part 2 helps traders:",
+            "options": [
+              "Trade effectively",
+              "Dance",
+              "Fly",
+              "Cook"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "adarsh-beginner-9",
+        "lesson_id": "adarsh-beginner-9",
+        "title": "EP7: MT5 PART 3",
+        "video_url": "https://youtu.be/WSJxtIlRJpU?si=GoASZaK6NP1O4OxM",
+        "videoUrl": "https://youtu.be/WSJxtIlRJpU?si=GoASZaK6NP1O4OxM",
+        "description": "Advanced MT5 tools and expert strategies",
+        "quiz": [
+          {
+            "question": "MT5 Part 3 likely focuses on:",
+            "options": [
+              "More advanced tools",
+              "Art",
+              "Dancing",
+              "Geography"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "In MT5 you can:",
+            "options": [
+              "Analyze charts",
+              "Track only clocks",
+              "Draw random art",
+              "Eat food"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "MT5 helps traders:",
+            "options": [
+              "Evaluate signals",
+              "Read novels",
+              "Sleep",
+              "Paint"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Stop losses are used to:",
+            "options": [
+              "Limit risk",
+              "Drive cars",
+              "Sing",
+              "Draw"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Part 3 advances the user's:",
+            "options": [
+              "Skills",
+              "Watch list",
+              "School grade",
+              "Height"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    ],
+    "intermediate": [],
+    "advanced": []
+  },
+  "ash": {
+    "beginner": [
+      {
+        "id": "ash-beginner-1",
+        "lesson_id": "ash-beginner-1",
+        "title": "Intro",
+        "video_url": "https://www.youtube.com/watch?v=qtqP8dXl1Fo&t=3s",
+        "videoUrl": "https://www.youtube.com/watch?v=qtqP8dXl1Fo&t=3s",
+        "description": "Introduction to trading bootcamp fundamentals",
+        "quiz": [
+          {
+            "question": "What is the primary objective of a trading bootcamp?",
+            "options": [
+              "Entertainment",
+              "Structured skill development",
+              "Gambling practice",
+              "Fast profit only"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A trader should first focus on:",
+            "options": [
+              "Strategy understanding",
+              "Buying signals",
+              "High leverage",
+              "Copying others"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Consistency in trading comes from:",
+            "options": [
+              "Luck",
+              "Discipline and rules",
+              "News guessing",
+              "Random entries"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "The foundation of trading success is:",
+            "options": [
+              "Indicators",
+              "Psychology + Risk Management",
+              "Social media",
+              "AI bots"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Learning before earning means:",
+            "options": [
+              "Trade immediately",
+              "Master basics first",
+              "Borrow capital",
+              "Ignore risk"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-10",
+        "lesson_id": "ash-beginner-10",
+        "title": "Ash Training Day 5 Part 1",
+        "video_url": "https://youtu.be/9fD4CFKTHTE",
+        "videoUrl": "https://youtu.be/9fD4CFKTHTE",
+        "description": "Understanding trading bias and higher timeframe analysis",
+        "quiz": [
+          {
+            "question": "Bias in trading means:",
+            "options": [
+              "Emotional opinion",
+              "Directional expectation",
+              "Random guess",
+              "Indicator color"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Daily bias helps:",
+            "options": [
+              "Lower timeframe entries",
+              "Laptop performance",
+              "Spread reduction",
+              "Internet speed"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "HTF bias overrides:",
+            "options": [
+              "Minor LTF noise",
+              "Broker spread",
+              "Indicators",
+              "Chart theme"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A wrong bias leads to:",
+            "options": [
+              "Clear entries",
+              "Forced trades",
+              "Perfect RR",
+              "Guaranteed wins"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Bias should be based on:",
+            "options": [
+              "Structure and liquidity",
+              "Feelings",
+              "News only",
+              "Random choice"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-11",
+        "lesson_id": "ash-beginner-11",
+        "title": "Ash Training Day 5 Part 2",
+        "video_url": "https://youtu.be/exZUGTWdbB4",
+        "videoUrl": "https://youtu.be/exZUGTWdbB4",
+        "description": "Power of Three (PO3) market phases",
+        "quiz": [
+          {
+            "question": "PO3 consists of:",
+            "options": [
+              "Accumulation, Manipulation, Distribution",
+              "Buy, Sell, Hold",
+              "Trend, Range, Flat",
+              "News, Volatility, Gap"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Manipulation phase usually:",
+            "options": [
+              "Traps traders",
+              "Closes market",
+              "Low volatility only",
+              "No movement"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Distribution phase follows:",
+            "options": [
+              "Accumulation",
+              "Manipulation",
+              "Both A and B",
+              "News event"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "question": "Accumulation forms:",
+            "options": [
+              "During high volatility",
+              "Before expansion",
+              "After trend end only",
+              "Randomly"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "PO3 model improves:",
+            "options": [
+              "Timing precision",
+              "Screen brightness",
+              "Spread",
+              "Broker choice"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-12",
+        "lesson_id": "ash-beginner-12",
+        "title": "Ash Training Day 5 Part 3",
+        "video_url": "https://youtu.be/Uzi0b5tipLc",
+        "videoUrl": "https://youtu.be/Uzi0b5tipLc",
+        "description": "Session timing and trading windows",
+        "quiz": [
+          {
+            "question": "Session timing affects:",
+            "options": [
+              "Liquidity",
+              "Candle color",
+              "Internet",
+              "Hardware"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "London session is known for:",
+            "options": [
+              "Increased volatility",
+              "No movement",
+              "Weekend gap",
+              "Low liquidity"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "NY session overlap creates:",
+            "options": [
+              "Higher liquidity",
+              "Flat market",
+              "No trades",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Session bias must align with:",
+            "options": [
+              "Higher timeframe bias",
+              "Emotions",
+              "Random entries",
+              "Indicators only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Time-based models depend on:",
+            "options": [
+              "Kill zones",
+              "Laptop brand",
+              "Mouse DPI",
+              "Chart color"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-13",
+        "lesson_id": "ash-beginner-13",
+        "title": "Day 6 FAQ - WARM UP",
+        "video_url": "https://youtu.be/KaLcCgYhPnk",
+        "videoUrl": "https://youtu.be/KaLcCgYhPnk",
+        "description": "Pre-trading routine and emotional preparation",
+        "quiz": [
+          {
+            "question": "Warm-up before trading helps improve:",
+            "options": [
+              "Emotional control",
+              "Internet speed",
+              "Broker leverage",
+              "Spread size"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Reviewing previous trades improves:",
+            "options": [
+              "Screen brightness",
+              "Pattern recognition",
+              "Mouse accuracy",
+              "Chart theme"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A trading routine builds:",
+            "options": [
+              "Randomness",
+              "Consistency",
+              "Overtrading",
+              "Fear"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Journaling helps identify:",
+            "options": [
+              "Chart colors",
+              "Behavioral mistakes",
+              "Broker fees",
+              "Candle size"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Preparation reduces:",
+            "options": [
+              "Risk awareness",
+              "Emotional impulsiveness",
+              "Liquidity",
+              "Volatility"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-14",
+        "lesson_id": "ash-beginner-14",
+        "title": "Day 6 Part 2",
+        "video_url": "https://youtu.be/Wd0WWHGZm8s",
+        "videoUrl": "https://youtu.be/Wd0WWHGZm8s",
+        "description": "Entry strategies and price zones",
+        "quiz": [
+          {
+            "question": "Confirmation entry improves:",
+            "options": [
+              "Accuracy",
+              "Random trades",
+              "Overleveraging",
+              "Noise"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A retracement entry aims to:",
+            "options": [
+              "Enter at premium/discount",
+              "Enter at random",
+              "Trade without bias",
+              "Avoid structure"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Premium zone is typically:",
+            "options": [
+              "Above equilibrium",
+              "Below equilibrium",
+              "Random level",
+              "News candle"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Discount zone is:",
+            "options": [
+              "Above range",
+              "Below equilibrium",
+              "Spread zone",
+              "Weekend gap"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Equilibrium represents:",
+            "options": [
+              "50% of range",
+              "Stop loss",
+              "Resistance only",
+              "Indicator signal"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-15",
+        "lesson_id": "ash-beginner-15",
+        "title": "Decoding Market Structure Part 1 Bonus",
+        "video_url": "https://youtu.be/U2LmyigJRPo",
+        "videoUrl": "https://youtu.be/U2LmyigJRPo",
+        "description": "Advanced market structure analysis techniques",
+        "quiz": [
+          {
+            "question": "External structure refers to:",
+            "options": [
+              "Higher timeframe swing",
+              "1-minute chart",
+              "Indicator crossover",
+              "News event"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Internal structure helps refine:",
+            "options": [
+              "Entry timing",
+              "Bias only",
+              "Spread",
+              "Broker selection"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Break of Structure (BOS) confirms:",
+            "options": [
+              "Continuation",
+              "Random move",
+              "Chart glitch",
+              "Flat market"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Change of Character (CHOCH) signals:",
+            "options": [
+              "Possible shift",
+              "Volume spike only",
+              "Spread widening",
+              "Broker issue"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Structural analysis prevents:",
+            "options": [
+              "Blind entries",
+              "Profit",
+              "Liquidity",
+              "Volatility"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-16",
+        "lesson_id": "ash-beginner-16",
+        "title": "Decoding Market Structure Part 2 Bonus",
+        "video_url": "https://youtu.be/ZIy6vxdg1ZA",
+        "videoUrl": "https://youtu.be/ZIy6vxdg1ZA",
+        "description": "Advanced structural concepts and liquidity raids",
+        "quiz": [
+          {
+            "question": "Inducement often appears before:",
+            "options": [
+              "Major move",
+              "Weekend",
+              "Flat market",
+              "Indicator lag"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity raid confirms:",
+            "options": [
+              "Stop hunt",
+              "Broker shutdown",
+              "Spread freeze",
+              "News halt"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Structural shift requires:",
+            "options": [
+              "Candle close confirmation",
+              "Wick only",
+              "Volume drop",
+              "Gap open"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Higher timeframe liquidity is:",
+            "options": [
+              "Stronger target",
+              "Irrelevant",
+              "Random",
+              "Weak zone"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Structure alignment improves:",
+            "options": [
+              "Probability",
+              "Emotions",
+              "Randomness",
+              "Risk exposure"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-17",
+        "lesson_id": "ash-beginner-17",
+        "title": "DAY 7 - TS Intro",
+        "video_url": "https://youtu.be/Vex1hb5PvDc",
+        "videoUrl": "https://youtu.be/Vex1hb5PvDc",
+        "description": "Introduction to trading systems and backtesting",
+        "quiz": [
+          {
+            "question": "A trading system (TS) must include:",
+            "options": [
+              "Entry, SL, TP rules",
+              "Random ideas",
+              "News only",
+              "Social media tips"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Backtesting a system checks:",
+            "options": [
+              "Historical performance",
+              "Laptop speed",
+              "Broker quality",
+              "Chart layout"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A valid TS removes:",
+            "options": [
+              "Emotions",
+              "Structure",
+              "Risk control",
+              "Bias"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Rules-based trading creates:",
+            "options": [
+              "Consistency",
+              "Overtrading",
+              "Confusion",
+              "Random entries"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "System refinement improves:",
+            "options": [
+              "Edge",
+              "Spread",
+              "Volatility",
+              "Broker leverage"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-18",
+        "lesson_id": "ash-beginner-18",
+        "title": "DAY 8 - LIVE ACCOUNTS VS PROP FIRM",
+        "video_url": "https://youtu.be/PXAQycTAkkE",
+        "videoUrl": "https://youtu.be/PXAQycTAkkE",
+        "description": "Comparing live trading accounts with proprietary trading firms",
+        "quiz": [
+          {
+            "question": "Prop firms provide:",
+            "options": [
+              "Funded capital",
+              "Guaranteed profit",
+              "No rules",
+              "Free leverage"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Evaluation phase tests:",
+            "options": [
+              "Discipline",
+              "Internet speed",
+              "Chart theme",
+              "Indicator color"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Live account risk is:",
+            "options": [
+              "Personal capital",
+              "Demo balance",
+              "Free capital",
+              "Virtual money"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Drawdown rules are:",
+            "options": [
+              "Risk limits",
+              "Indicator signals",
+              "Bias model",
+              "Session timing"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Prop trading requires:",
+            "options": [
+              "Strict risk control",
+              "Overleveraging",
+              "Gambling",
+              "Random trades"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-19",
+        "lesson_id": "ash-beginner-19",
+        "title": "Decoding Market Structure Unveiling the Secrets Part 1 Bonus",
+        "video_url": "https://youtu.be/U2LmyigJRPo",
+        "videoUrl": "https://youtu.be/U2LmyigJRPo",
+        "description": "Unveiling market structure secrets and patterns",
+        "quiz": [
+          {
+            "question": "External structure is defined by:",
+            "options": [
+              "Minor pullbacks",
+              "Major swing highs and lows",
+              "Indicator signals",
+              "Volume spikes"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Internal structure helps refine:",
+            "options": [
+              "Emotional bias",
+              "Entry precision",
+              "Spread size",
+              "Random entries"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Break of Structure (BOS) confirms:",
+            "options": [
+              "Trend continuation",
+              "Range only",
+              "News spike",
+              "Spread shift"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Change of Character (CHOCH) signals:",
+            "options": [
+              "Guaranteed reversal",
+              "Possible directional shift",
+              "Consolidation only",
+              "Liquidity removal"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Multi-timeframe alignment increases:",
+            "options": [
+              "Randomness",
+              "Probability",
+              "Emotional bias",
+              "Spread"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-2",
+        "lesson_id": "ash-beginner-2",
+        "title": "Investing vs. Trading: What's the Difference?",
+        "video_url": "https://youtu.be/_sdO55lkc_Q",
+        "videoUrl": "https://youtu.be/_sdO55lkc_Q",
+        "description": "Understanding the key differences between investing and trading",
+        "quiz": [
+          {
+            "question": "Trading usually focuses on:",
+            "options": [
+              "Long-term holding",
+              "Short-term price movement",
+              "Dividends",
+              "Real estate"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Investing typically involves:",
+            "options": [
+              "Scalping",
+              "Long-term growth",
+              "Tick trading",
+              "Intraday news spikes"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Traders rely heavily on:",
+            "options": [
+              "Technical analysis",
+              "Property valuation",
+              "Rental yield",
+              "Farming"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Investors are more concerned about:",
+            "options": [
+              "Macro fundamentals",
+              "1-minute candles",
+              "Spread size",
+              "Tick imbalance"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Time horizon difference mainly affects:",
+            "options": [
+              "Risk style",
+              "Laptop brand",
+              "Chart color",
+              "Internet speed"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-20",
+        "lesson_id": "ash-beginner-20",
+        "title": "Decoding Market Structure Part 2 Bonus - Advanced",
+        "video_url": "https://youtu.be/ZIy6vxdg1ZA",
+        "videoUrl": "https://youtu.be/ZIy6vxdg1ZA",
+        "description": "Advanced structural concepts and liquidity management",
+        "quiz": [
+          {
+            "question": "Equal highs typically hold:",
+            "options": [
+              "Resistance only",
+              "Stop liquidity",
+              "Indicator signals",
+              "Discount zone"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Inducement is used to:",
+            "options": [
+              "Confirm breakout",
+              "Trap early traders",
+              "Reduce volatility",
+              "Flatten market"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Valid structural shift requires:",
+            "options": [
+              "Wick break",
+              "Strong body close",
+              "Volume drop",
+              "Small candles"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Liquidity sweep often leads to:",
+            "options": [
+              "Expansion",
+              "Flat range",
+              "Market close",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Structure + liquidity confluence reduces:",
+            "options": [
+              "Discipline",
+              "Uncertainty",
+              "Volatility",
+              "Range"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-21",
+        "lesson_id": "ash-beginner-21",
+        "title": "DAY 9 TS MODEL 1",
+        "video_url": "https://youtu.be/OQ6vlYS35bs",
+        "videoUrl": "https://youtu.be/OQ6vlYS35bs",
+        "description": "First trading system model overview",
+        "quiz": [
+          {
+            "question": "A trading model must define:",
+            "options": [
+              "Entry",
+              "Stop Loss",
+              "Target",
+              "All of the above"
+            ],
+            "correctIndex": 3
+          },
+          {
+            "question": "Backtesting measures:",
+            "options": [
+              "Spread",
+              "Historical edge",
+              "News impact",
+              "Volume only"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Risk per trade should be:",
+            "options": [
+              "Fixed %",
+              "Random",
+              "Increasing daily",
+              "Based on mood"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A model fails when:",
+            "options": [
+              "Loss occurs",
+              "Rules are broken",
+              "Spread widens",
+              "News hits"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "System consistency depends on:",
+            "options": [
+              "Discipline",
+              "Indicators",
+              "News",
+              "Volume"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-22",
+        "lesson_id": "ash-beginner-22",
+        "title": "DAY 12 Validation CRT AND INVALIDATION CRT",
+        "video_url": "https://youtu.be/mLXW82-Oaxk",
+        "videoUrl": "https://youtu.be/mLXW82-Oaxk",
+        "description": "Confirmation and invalidation mechanisms in trading systems",
+        "quiz": [
+          {
+            "question": "CRT validation requires:",
+            "options": [
+              "Liquidity alignment",
+              "Indicator crossover",
+              "Random breakout",
+              "Volume drop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Invalidation occurs when:",
+            "options": [
+              "Opposite structure breaks",
+              "Spread narrows",
+              "Candle small",
+              "Market flat"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Confirmation candle must:",
+            "options": [
+              "Close decisively",
+              "Wick only",
+              "Be doji",
+              "Be equal high"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias formation depends on:",
+            "options": [
+              "Structure + Liquidity",
+              "Indicator only",
+              "News only",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Ignoring invalidation leads to:",
+            "options": [
+              "Better RR",
+              "Larger losses",
+              "Higher accuracy",
+              "Discipline"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-23",
+        "lesson_id": "ash-beginner-23",
+        "title": "DAY 13 ORDERFLOW, HTF, LIQUIDITY",
+        "video_url": "https://youtu.be/yKgStMsTQow",
+        "videoUrl": "https://youtu.be/yKgStMsTQow",
+        "description": "Order flow analysis combined with higher timeframe and liquidity",
+        "quiz": [
+          {
+            "question": "Displacement indicates:",
+            "options": [
+              "Institutional momentum",
+              "Weak participation",
+              "Flat range",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Fair Value Gap forms due to:",
+            "options": [
+              "Price inefficiency",
+              "Equal highs",
+              "Volume drop",
+              "News halt"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "HTF liquidity acts as:",
+            "options": [
+              "Major draw on price",
+              "Minor level",
+              "Indicator",
+              "Random zone"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Orderflow shift signals:",
+            "options": [
+              "Momentum change",
+              "Spread widening",
+              "Indicator cross",
+              "Flat session"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Alignment between HTF and LTF improves:",
+            "options": [
+              "Execution precision",
+              "Emotional bias",
+              "Risk exposure",
+              "Random entries"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-24",
+        "lesson_id": "ash-beginner-24",
+        "title": "DAY 15 SILVER BULLET MODEL",
+        "video_url": "https://youtu.be/VkgLJH6ONjg",
+        "videoUrl": "https://youtu.be/VkgLJH6ONjg",
+        "description": "The Silver Bullet trading model and kill zones",
+        "quiz": [
+          {
+            "question": "Silver Bullet focuses on:",
+            "options": [
+              "Specific time windows",
+              "Random entries",
+              "Indicators only",
+              "News trading"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Entry requires:",
+            "options": [
+              "Structure + FVG",
+              "RSI cross",
+              "Volume spike",
+              "Equal highs"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Kill zones provide:",
+            "options": [
+              "High volatility window",
+              "Flat market",
+              "Spread freeze",
+              "Low liquidity"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Model success requires:",
+            "options": [
+              "Strict execution",
+              "Guessing",
+              "Overleveraging",
+              "Emotional bias"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Silver Bullet is based on:",
+            "options": [
+              "Time + Liquidity",
+              "Indicators",
+              "News only",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-25",
+        "lesson_id": "ash-beginner-25",
+        "title": "DAY 20 Cracking the Code CRT BIAS",
+        "video_url": "https://youtu.be/U_vwyn-ALCY",
+        "videoUrl": "https://youtu.be/U_vwyn-ALCY",
+        "description": "Understanding CRT bias and market structure",
+        "quiz": [
+          {
+            "question": "Bias should align with:",
+            "options": [
+              "Higher timeframe structure",
+              "Emotions",
+              "News",
+              "Indicators"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias invalidates when:",
+            "options": [
+              "Opposing BOS forms",
+              "Volume drops",
+              "Spread narrows",
+              "Candle small"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Daily bias helps refine:",
+            "options": [
+              "LTF entries",
+              "Random trades",
+              "High leverage",
+              "Emotional execution"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias without liquidity context is:",
+            "options": [
+              "Strong",
+              "Weak",
+              "Guaranteed",
+              "Precise"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Bias alignment improves:",
+            "options": [
+              "Probability",
+              "Spread",
+              "Volatility",
+              "Randomness"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-26",
+        "lesson_id": "ash-beginner-26",
+        "title": "BACKTESTING CRT DAY GOOD AND BAD CONFIRMATION",
+        "video_url": "https://youtu.be/vz_yL1oM5_M",
+        "videoUrl": "https://youtu.be/vz_yL1oM5_M",
+        "description": "Backtesting strategies and identifying quality confirmations",
+        "quiz": [
+          {
+            "question": "A valid backtest must include:",
+            "options": [
+              "Random trades",
+              "Defined model rules",
+              "Emotional bias",
+              "News reactions only"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Good confirmation in CRT typically includes:",
+            "options": [
+              "Weak displacement",
+              "Liquidity sweep + structure shift",
+              "Equal highs only",
+              "Small candles"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Bad confirmation often shows:",
+            "options": [
+              "Strong momentum",
+              "No displacement after entry",
+              "HTF alignment",
+              "Clean BOS"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Backtesting primarily measures:",
+            "options": [
+              "Historical probability",
+              "Broker spread",
+              "Indicator lag",
+              "Social sentiment"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "The purpose of identifying bad confirmations is to:",
+            "options": [
+              "Increase lot size",
+              "Filter low-quality setups",
+              "Trade more frequently",
+              "Ignore risk"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-27",
+        "lesson_id": "ash-beginner-27",
+        "title": "Final Method Midnight Open Bias Goodbye Method for Forex and Indices",
+        "video_url": "https://youtu.be/GMQx_yVFsi4",
+        "videoUrl": "https://youtu.be/GMQx_yVFsi4",
+        "description": "Midnight open bias method for forex and indices trading",
+        "quiz": [
+          {
+            "question": "Midnight Open is used to determine:",
+            "options": [
+              "Weekly bias",
+              "Intraday directional bias",
+              "Indicator setup",
+              "Volume spike"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Price above midnight open suggests:",
+            "options": [
+              "Bearish bias",
+              "Bullish bias",
+              "Consolidation",
+              "No bias"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "The model works best when combined with:",
+            "options": [
+              "Liquidity targets",
+              "RSI",
+              "Moving averages",
+              "News only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias failure occurs when:",
+            "options": [
+              "Structure confirms opposite direction",
+              "Candle closes strong",
+              "Spread tightens",
+              "Volume rises"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Midnight model is mainly applied for:",
+            "options": [
+              "Long-term investing",
+              "Intraday trading",
+              "Swing trading only",
+              "Scalping crypto only"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-28",
+        "lesson_id": "ash-beginner-28",
+        "title": "ORDERFLOW SETUP A+ The ICT Reaper (Bitcoin & ETH)",
+        "video_url": "https://youtu.be/1JqELMubt9w",
+        "videoUrl": "https://youtu.be/1JqELMubt9w",
+        "description": "Advanced A+ orderflow setups for crypto trading",
+        "quiz": [
+          {
+            "question": "An A+ setup requires:",
+            "options": [
+              "Random breakout",
+              "Clear liquidity sweep + displacement",
+              "Indicator crossover",
+              "News spike"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Orderflow shift is identified by:",
+            "options": [
+              "Weak candles",
+              "Strong impulsive move",
+              "Equal highs",
+              "Small range"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Crypto volatility requires:",
+            "options": [
+              "Wider stop placement logic",
+              "No stop loss",
+              "Emotional trading",
+              "High leverage only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A true reaper entry occurs after:",
+            "options": [
+              "Liquidity grab",
+              "Consolidation",
+              "Spread widening",
+              "Indicator cross"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "HTF confluence improves:",
+            "options": [
+              "Accuracy",
+              "Randomness",
+              "Spread",
+              "Fear"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-29",
+        "lesson_id": "ash-beginner-29",
+        "title": "Daily Bias Explained PO3 + Tips",
+        "video_url": "https://youtu.be/KuvcXxTBgnE",
+        "videoUrl": "https://youtu.be/KuvcXxTBgnE",
+        "description": "Daily bias concepts using Power of Three methodology",
+        "quiz": [
+          {
+            "question": "PO3 stands for:",
+            "options": [
+              "Pattern of 3",
+              "Power of Three",
+              "Price of 3",
+              "Phase of 3"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "PO3 phases are:",
+            "options": [
+              "Accumulation, Manipulation, Distribution",
+              "Buy, Sell, Hold",
+              "Trend, Range, Break",
+              "Entry, Stop, Exit"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Manipulation phase usually:",
+            "options": [
+              "Sweeps liquidity",
+              "Trends cleanly",
+              "Moves randomly",
+              "Closes market"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Distribution phase delivers:",
+            "options": [
+              "Main expansion move",
+              "Consolidation",
+              "Spread freeze",
+              "Volume drop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Daily bias combined with PO3 improves:",
+            "options": [
+              "Timing precision",
+              "Emotional trading",
+              "Random entries",
+              "Overexposure"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-3",
+        "lesson_id": "ash-beginner-3",
+        "title": "How to Choose the Right Market",
+        "video_url": "https://youtu.be/13tkhWLTvTg",
+        "videoUrl": "https://youtu.be/13tkhWLTvTg",
+        "description": "Learn how to select the best market for your trading style",
+        "quiz": [
+          {
+            "question": "Forex market trades:",
+            "options": [
+              "Stocks",
+              "Commodities",
+              "Currency pairs",
+              "NFTs"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "question": "Crypto markets are known for:",
+            "options": [
+              "Low volatility",
+              "High volatility",
+              "No movement",
+              "Fixed pricing"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Futures contracts are traded on:",
+            "options": [
+              "Centralized exchanges",
+              "WhatsApp",
+              "Instagram",
+              "Forums"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Choosing a market depends on:",
+            "options": [
+              "Personality and schedule",
+              "Random choice",
+              "Friend's advice",
+              "Logo design"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity affects:",
+            "options": [
+              "Execution speed",
+              "Chart theme",
+              "Screen size",
+              "Mouse DPI"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-30",
+        "lesson_id": "ash-beginner-30",
+        "title": "ICT 2024 MACRO 09:30 FVG/IFVG (CME)",
+        "video_url": "https://youtu.be/TvY8DvCiVvw",
+        "videoUrl": "https://youtu.be/TvY8DvCiVvw",
+        "description": "9:30 macro trading with Fair Value Gap and Imbalance FVG",
+        "quiz": [
+          {
+            "question": "09:30 macro refers to:",
+            "options": [
+              "London open",
+              "NY session open",
+              "Asia open",
+              "Market close"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "FVG represents:",
+            "options": [
+              "Price inefficiency",
+              "Equal highs",
+              "Indicator signal",
+              "Volume drop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "IFVG forms when:",
+            "options": [
+              "Gap is respected opposite direction",
+              "Volume rises",
+              "Spread narrows",
+              "Candle small"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Macro windows are important because:",
+            "options": [
+              "Institutions execute orders",
+              "Spread freezes",
+              "Volume low",
+              "Market closed"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Combining macro time + FVG increases:",
+            "options": [
+              "Precision",
+              "Random entries",
+              "Emotional bias",
+              "Overtrading"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-31",
+        "lesson_id": "ash-beginner-31",
+        "title": "ICT 2024 Asia Model / ATM Machine",
+        "video_url": "https://youtu.be/OsffqHknJnA",
+        "videoUrl": "https://youtu.be/OsffqHknJnA",
+        "description": "Asia Trading Model and ATM Machine concept",
+        "quiz": [
+          {
+            "question": "Asia model focuses on:",
+            "options": [
+              "Asian session range",
+              "News trading",
+              "Indicators",
+              "Weekly swing"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Range manipulation during Asia often:",
+            "options": [
+              "Builds liquidity",
+              "Ends trend",
+              "Closes market",
+              "Reduces volatility"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Expansion typically happens during:",
+            "options": [
+              "London/NY session",
+              "Midnight",
+              "Weekend",
+              "Holiday"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "ATM concept is linked to:",
+            "options": [
+              "Gap magnet logic",
+              "RSI divergence",
+              "Volume spike",
+              "Equal lows"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Asia high/low acts as:",
+            "options": [
+              "Liquidity pool",
+              "Indicator",
+              "Random zone",
+              "Spread level"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-32",
+        "lesson_id": "ash-beginner-32",
+        "title": "ICT ATM Model – Open Gap Magnet Concept",
+        "video_url": "https://youtu.be/Hh_1rF6ABJU",
+        "videoUrl": "https://youtu.be/Hh_1rF6ABJU",
+        "description": "Open gap magnet concept in ICT ATM model",
+        "quiz": [
+          {
+            "question": "Gap magnet concept implies price is drawn to:",
+            "options": [
+              "Open gap imbalance",
+              "Equal highs",
+              "Indicator cross",
+              "Volume spike"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Open gap typically forms between:",
+            "options": [
+              "Sessions",
+              "Candles",
+              "Indicators",
+              "Brokers"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Gap fill probability increases when:",
+            "options": [
+              "Liquidity aligns",
+              "Volume drops",
+              "Spread narrows",
+              "Candle small"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trading the gap requires:",
+            "options": [
+              "Structure confirmation",
+              "Blind entry",
+              "No stop",
+              "News spike"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Gap magnet works best with:",
+            "options": [
+              "Time-based model",
+              "RSI",
+              "Moving average",
+              "Random breakout"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-4",
+        "lesson_id": "ash-beginner-4",
+        "title": "Ash Training Day 1.1",
+        "video_url": "https://youtu.be/HZ3ktZh8xMI",
+        "videoUrl": "https://youtu.be/HZ3ktZh8xMI",
+        "description": "Market structure fundamentals and identifying trends",
+        "quiz": [
+          {
+            "question": "What is market structure based on?",
+            "options": [
+              "Random candles",
+              "Highs and lows",
+              "Volume only",
+              "News only"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "An uptrend forms when price makes:",
+            "options": [
+              "Lower highs",
+              "Equal highs",
+              "Higher highs and higher lows",
+              "Flat lines"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "question": "A break of structure signals:",
+            "options": [
+              "Trend continuation or shift",
+              "Weather change",
+              "Broker issue",
+              "Spread widening"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity often sits above:",
+            "options": [
+              "Random price",
+              "Equal highs/lows",
+              "News candles",
+              "Indicators"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Patience in trading means:",
+            "options": [
+              "Forcing entries",
+              "Waiting for confirmation",
+              "Trading daily",
+              "Increasing lot size"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-5",
+        "lesson_id": "ash-beginner-5",
+        "title": "Ash Training Day 1.2",
+        "video_url": "https://youtu.be/iGgk1dMjs24",
+        "videoUrl": "https://youtu.be/iGgk1dMjs24",
+        "description": "Breakout confirmation and internal market structure",
+        "quiz": [
+          {
+            "question": "What confirms a valid breakout?",
+            "options": [
+              "One wick",
+              "Strong body close beyond level",
+              "Small doji",
+              "Volume drop"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Inducement in trading means:",
+            "options": [
+              "Random movement",
+              "Luring traders before reversal",
+              "News spike",
+              "Weekend gap"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Internal structure refers to:",
+            "options": [
+              "Lower timeframe movement",
+              "Broker policy",
+              "Hardware specs",
+              "Internet lag"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Reaction from HTF zone suggests:",
+            "options": [
+              "Strong interest area",
+              "Weak chart",
+              "Bad broker",
+              "Spread widening"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Confirmation reduces:",
+            "options": [
+              "Risk exposure",
+              "Profit",
+              "Screen time",
+              "Charts"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-6",
+        "lesson_id": "ash-beginner-6",
+        "title": "Ash - Day 2 Part 1",
+        "video_url": "https://youtu.be/tRQTV_8tt7w",
+        "videoUrl": "https://youtu.be/tRQTV_8tt7w",
+        "description": "Risk management and position sizing basics",
+        "quiz": [
+          {
+            "question": "What is risk per trade usually measured in?",
+            "options": [
+              "Pips or percentage",
+              "Candles",
+              "Colors",
+              "Minutes"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A 1:2 RR means:",
+            "options": [
+              "Risk 2 to gain 1",
+              "Risk 1 to gain 2",
+              "Equal risk",
+              "No risk"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Overleveraging causes:",
+            "options": [
+              "Stability",
+              "Account blow risk",
+              "Discipline",
+              "Consistency"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Stop loss protects:",
+            "options": [
+              "Ego",
+              "Capital",
+              "Indicators",
+              "News"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Position sizing depends on:",
+            "options": [
+              "Account size",
+              "Mood",
+              "Market rumor",
+              "Candle color"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-7",
+        "lesson_id": "ash-beginner-7",
+        "title": "Ash Training DAY 2.2",
+        "video_url": "https://youtu.be/CHcRnMl11Ew",
+        "videoUrl": "https://youtu.be/CHcRnMl11Ew",
+        "description": "Understanding liquidity and smart money movements",
+        "quiz": [
+          {
+            "question": "What is draw on liquidity?",
+            "options": [
+              "Random entry",
+              "Price moving toward liquidity pools",
+              "Indicator crossover",
+              "Spread widening"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Liquidity is commonly found at:",
+            "options": [
+              "Equal highs and lows",
+              "Random candles",
+              "Mid-chart areas",
+              "Broker zones"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Smart money often targets:",
+            "options": [
+              "Retail stop losses",
+              "News headlines",
+              "Indicators",
+              "Fibonacci only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A liquidity sweep usually:",
+            "options": [
+              "Ends trend immediately",
+              "Grabs stops before reversal",
+              "Closes market",
+              "Freezes spreads"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Understanding liquidity improves:",
+            "options": [
+              "Entry timing",
+              "Laptop speed",
+              "Chart color",
+              "Internet signal"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-8",
+        "lesson_id": "ash-beginner-8",
+        "title": "Ash Training Day 3",
+        "video_url": "https://youtu.be/AY7ffE_0CfE",
+        "videoUrl": "https://youtu.be/AY7ffE_0CfE",
+        "description": "Impulse moves, consolidation, and momentum analysis",
+        "quiz": [
+          {
+            "question": "What defines a strong impulse move?",
+            "options": [
+              "Small candles",
+              "Consecutive strong bodies",
+              "Equal highs",
+              "Low volume"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Consolidation typically represents:",
+            "options": [
+              "Distribution or accumulation",
+              "Trend confirmation",
+              "Stop loss",
+              "News spike"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Expansion follows:",
+            "options": [
+              "Randomness",
+              "Compression phase",
+              "Broker updates",
+              "Indicator lag"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Momentum shift may signal:",
+            "options": [
+              "Continuation only",
+              "Possible reversal",
+              "Chart error",
+              "Spread issue"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Price delivery is:",
+            "options": [
+              "Random movement",
+              "Structured movement from level to level",
+              "News only",
+              "Weekend gap"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-beginner-9",
+        "lesson_id": "ash-beginner-9",
+        "title": "ASH TRAINING DAY 4",
+        "video_url": "https://youtu.be/87lFjto6HXI",
+        "videoUrl": "https://youtu.be/87lFjto6HXI",
+        "description": "Fair Value Gaps and price imbalances",
+        "quiz": [
+          {
+            "question": "What is imbalance in trading?",
+            "options": [
+              "Equal buyers and sellers",
+              "Inefficient price movement",
+              "Broker manipulation",
+              "Spread increase"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Fair Value Gap (FVG) represents:",
+            "options": [
+              "Balanced price",
+              "Unfilled price inefficiency",
+              "Support line",
+              "Indicator crossover"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Price often returns to FVG to:",
+            "options": [
+              "Ignore it",
+              "Rebalance inefficiency",
+              "Close market",
+              "Create spread"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A valid FVG must:",
+            "options": [
+              "Be visible on structure",
+              "Be random",
+              "Be small only",
+              "Have no context"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Imbalance trading focuses on:",
+            "options": [
+              "Structure + inefficiency",
+              "Random signals",
+              "News only",
+              "Social media"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    ],
+    "intermediate": [
+      {
+        "id": "ash-intermediate-1",
+        "lesson_id": "ash-intermediate-1",
+        "title": "Futures Market Intro + Risk Management + Prop Firm Episode 1",
+        "video_url": "https://youtu.be/09UpU3G5FLU",
+        "videoUrl": "https://youtu.be/09UpU3G5FLU",
+        "description": "Introduction to futures markets and prop firm risk management",
+        "quiz": [
+          {
+            "question": "Futures contracts are standardized and traded on:",
+            "options": [
+              "Forex brokers",
+              "Centralized exchanges",
+              "Banks only",
+              "Crypto platforms"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Leverage in futures primarily increases:",
+            "options": [
+              "Spread",
+              "Risk exposure",
+              "Win rate",
+              "Accuracy"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A prop firm evaluation focuses mainly on:",
+            "options": [
+              "Trade frequency",
+              "Risk consistency",
+              "News trading",
+              "Indicators"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Daily drawdown rule protects:",
+            "options": [
+              "Broker",
+              "Trader capital discipline",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Futures margin requirement represents:",
+            "options": [
+              "Full contract value",
+              "Collateral to control contract",
+              "Profit target",
+              "Stop loss"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-10",
+        "lesson_id": "ash-intermediate-10",
+        "title": "CRT REBOOT 2025 PART 2",
+        "video_url": "https://youtu.be/bvWYgos3R9g",
+        "videoUrl": "https://youtu.be/bvWYgos3R9g",
+        "description": "Advanced CRT techniques and precision execution",
+        "quiz": [
+          {
+            "question": "Advanced CRT incorporates:",
+            "options": [
+              "Session timing",
+              "Indicator stacking",
+              "News only",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity pools are commonly found at:",
+            "options": [
+              "Equal highs/lows",
+              "Random candles",
+              "Indicators",
+              "Spread levels"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Invalidation in CRT occurs when:",
+            "options": [
+              "Opposite BOS forms",
+              "Candle small",
+              "Spread narrows",
+              "Volume low"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Precision entry is improved by:",
+            "options": [
+              "Lower timeframe confirmation",
+              "Emotional bias",
+              "Random execution",
+              "Overleveraging"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Risk management in CRT ensures:",
+            "options": [
+              "Longevity",
+              "No losses",
+              "Higher leverage",
+              "Fast profits"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-11",
+        "lesson_id": "ash-intermediate-11",
+        "title": "How to Trade Opening Range Gap 09:30 with CRT Bias Part 1",
+        "video_url": "https://youtu.be/Ux20CEOWAaI",
+        "videoUrl": "https://youtu.be/Ux20CEOWAaI",
+        "description": "Trading 9:30 opening range gaps with CRT bias",
+        "quiz": [
+          {
+            "question": "Opening range gap provides:",
+            "options": [
+              "Liquidity reference",
+              "Indicator signal",
+              "Spread",
+              "Random entry"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Combining CRT bias with ORG improves:",
+            "options": [
+              "Structure alignment",
+              "Emotional trading",
+              "Overtrading",
+              "Risk"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Entry should occur after:",
+            "options": [
+              "Confirmation displacement",
+              "First candle",
+              "News spike",
+              "Random breakout"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "False breakout often lacks:",
+            "options": [
+              "Volume",
+              "Structure shift",
+              "Emotion",
+              "Spread"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "09:30 timing matters due to:",
+            "options": [
+              "Institutional flow",
+              "Random volatility",
+              "Spread freeze",
+              "Weekend"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-12",
+        "lesson_id": "ash-intermediate-12",
+        "title": "How to Trade Opening Range Gap 09:30 with CRT Bias Part 2",
+        "video_url": "https://youtu.be/JyXZnOcYgCw",
+        "videoUrl": "https://youtu.be/JyXZnOcYgCw",
+        "description": "Advanced 9:30 opening range gap trading strategies",
+        "quiz": [
+          {
+            "question": "Gap rejection suggests:",
+            "options": [
+              "Reversal potential",
+              "Continuation only",
+              "Flat session",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Stop placement should be:",
+            "options": [
+              "Below/above liquidity",
+              "Random",
+              "Wide always",
+              "No stop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Confirmation must align with:",
+            "options": [
+              "HTF bias",
+              "Emotions",
+              "News only",
+              "Indicators only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Overtrading ORG setups causes:",
+            "options": [
+              "Discipline",
+              "Drawdown",
+              "Accuracy",
+              "Precision"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Patience during open improves:",
+            "options": [
+              "Execution quality",
+              "Fear",
+              "Spread",
+              "Randomness"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-13",
+        "lesson_id": "ash-intermediate-13",
+        "title": "ICT 2025 Model Completed Bias V-Shape Target News (Part 1)",
+        "video_url": "https://youtu.be/1IdY0ALzcC0",
+        "videoUrl": "https://youtu.be/1IdY0ALzcC0",
+        "description": "V-Shape recovery and bias-based targeting",
+        "quiz": [
+          {
+            "question": "V-shape recovery indicates:",
+            "options": [
+              "Aggressive reversal",
+              "Weak momentum",
+              "Range",
+              "Market close"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "News events create:",
+            "options": [
+              "Liquidity spikes",
+              "Flat session",
+              "Spread freeze",
+              "Equal highs"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias confirmation must precede:",
+            "options": [
+              "Entry",
+              "News",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Target selection should be:",
+            "options": [
+              "Liquidity-based",
+              "Random",
+              "Indicator-based",
+              "Emotion-based"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "V-shape entries require:",
+            "options": [
+              "Fast reaction + confirmation",
+              "Blind entry",
+              "No stop",
+              "High leverage"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-14",
+        "lesson_id": "ash-intermediate-14",
+        "title": "ICT 2025 Model Completed Bias V-Shape Target News Part 2",
+        "video_url": "https://youtu.be/Uqh6l84CWwE",
+        "videoUrl": "https://youtu.be/Uqh6l84CWwE",
+        "description": "Post-news volatility and liquidity vacuum management",
+        "quiz": [
+          {
+            "question": "Post-news volatility requires:",
+            "options": [
+              "Adjusted risk",
+              "Higher leverage",
+              "No stop",
+              "Faster entries"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity vacuum forms after:",
+            "options": [
+              "Aggressive displacement",
+              "Small candles",
+              "Flat range",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Model completion confirms:",
+            "options": [
+              "Structural alignment",
+              "Random breakout",
+              "News reaction only",
+              "Indicator cross"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trading during news without plan increases:",
+            "options": [
+              "Probability",
+              "Risk",
+              "Accuracy",
+              "Discipline"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "V-shape target often aligns with:",
+            "options": [
+              "Opposite liquidity pool",
+              "Indicator",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-15",
+        "lesson_id": "ash-intermediate-15",
+        "title": "WHY THIS 5 MIN CANDLE? WHY THIS FVG? (Enigma)",
+        "video_url": "https://youtu.be/i8PZT9hjiMc",
+        "videoUrl": "https://youtu.be/i8PZT9hjiMc",
+        "description": "Understanding the context behind 5-minute candles and FVGs",
+        "quiz": [
+          {
+            "question": "A significant 5-minute candle usually represents:",
+            "options": [
+              "Retail activity",
+              "Institutional displacement",
+              "Low liquidity",
+              "Spread widening"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A valid FVG forms when:",
+            "options": [
+              "Three-candle imbalance appears",
+              "Equal highs form",
+              "RSI crosses",
+              "Volume drops"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "The reason a specific candle matters is because it:",
+            "options": [
+              "Creates inefficiency",
+              "Looks big",
+              "Has high volume only",
+              "Happens at random"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Not all FVGs should be traded because:",
+            "options": [
+              "Some lack context",
+              "All are equal",
+              "Volume low",
+              "Indicators lag"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "The best 5-minute FVG aligns with:",
+            "options": [
+              "Higher timeframe bias",
+              "Random breakout",
+              "Spread",
+              "News only"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-16",
+        "lesson_id": "ash-intermediate-16",
+        "title": "CRT FOCUS 2025 PART 1",
+        "video_url": "https://youtu.be/QrZCjhXShB4",
+        "videoUrl": "https://youtu.be/QrZCjhXShB4",
+        "description": "Focused CRT execution and liquidity engineering",
+        "quiz": [
+          {
+            "question": "CRT focus emphasizes:",
+            "options": [
+              "Liquidity engineering",
+              "Indicators",
+              "News spikes",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Entry refinement requires:",
+            "options": [
+              "LTF confirmation",
+              "Blind execution",
+              "No stop",
+              "High leverage"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Precision improves when:",
+            "options": [
+              "Time + structure align",
+              "Emotions increase",
+              "Spread widens",
+              "Volume low"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Poor execution often comes from:",
+            "options": [
+              "Rushing entries",
+              "Discipline",
+              "Bias alignment",
+              "Patience"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "CRT edge is strongest when:",
+            "options": [
+              "Liquidity is targeted",
+              "Random entries occur",
+              "Indicators stack",
+              "News only"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-17",
+        "lesson_id": "ash-intermediate-17",
+        "title": "CRT FOCUS 2025 PART 2",
+        "video_url": "https://youtu.be/o6GnV3W5t6w",
+        "videoUrl": "https://youtu.be/o6GnV3W5t6w",
+        "description": "Advanced CRT timing and liquidity delivery mechanisms",
+        "quiz": [
+          {
+            "question": "Advanced CRT incorporates:",
+            "options": [
+              "Multi-session timing",
+              "RSI divergence",
+              "Volume spikes only",
+              "Random structure"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity delivery mechanism refers to:",
+            "options": [
+              "How price seeks stops",
+              "Broker spreads",
+              "Indicator cross",
+              "Candle color"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Displacement confirms:",
+            "options": [
+              "Institutional participation",
+              "Low volatility",
+              "Flat session",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Entry without displacement increases:",
+            "options": [
+              "Risk",
+              "Accuracy",
+              "Probability",
+              "Discipline"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Precision scaling requires:",
+            "options": [
+              "Structured partial entries",
+              "Full leverage",
+              "No stop",
+              "Emotional bias"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-18",
+        "lesson_id": "ash-intermediate-18",
+        "title": "CRT FOCUS 2025 PART 2.2",
+        "video_url": "https://youtu.be/ix_lFzA9iMA",
+        "videoUrl": "https://youtu.be/ix_lFzA9iMA",
+        "description": "Invalidation logic and model mastery techniques",
+        "quiz": [
+          {
+            "question": "Invalidation logic protects:",
+            "options": [
+              "Capital",
+              "Ego",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A failed liquidity grab often leads to:",
+            "options": [
+              "Reversal",
+              "Consolidation only",
+              "Market close",
+              "No movement"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Advanced confluence includes:",
+            "options": [
+              "Bias + liquidity + time",
+              "Indicator stacking",
+              "News trading only",
+              "Random entries"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Patience improves:",
+            "options": [
+              "Execution quality",
+              "Fear",
+              "Spread",
+              "Volatility"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Model mastery requires:",
+            "options": [
+              "Repetition and journaling",
+              "Higher leverage",
+              "News chasing",
+              "Copy trading"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-19",
+        "lesson_id": "ash-intermediate-19",
+        "title": "THE PERFECT PROP FIRM?",
+        "video_url": "https://youtu.be/i1Vn0YzsN8o",
+        "videoUrl": "https://youtu.be/i1Vn0YzsN8o",
+        "description": "Evaluating and choosing the right prop firm",
+        "quiz": [
+          {
+            "question": "A good prop firm evaluation prioritizes:",
+            "options": [
+              "Consistent risk management",
+              "Fast profits",
+              "High leverage",
+              "No stop trading"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trailing drawdown is dangerous because it:",
+            "options": [
+              "Shrinks allowed buffer",
+              "Increases profit",
+              "Removes rules",
+              "Boosts leverage"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Passing a challenge requires:",
+            "options": [
+              "Discipline over aggression",
+              "High lot size",
+              "News trading",
+              "Gambling"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Scaling plans depend on:",
+            "options": [
+              "Consistency",
+              "Emotion",
+              "Random luck",
+              "Indicator stacking"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "The \"perfect\" prop firm still requires:",
+            "options": [
+              "Personal risk control",
+              "Blind trust",
+              "No strategy",
+              "Emotional trading"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-2",
+        "lesson_id": "ash-intermediate-2",
+        "title": "Buffer, E-Mini vs Micro, Risk Contract",
+        "video_url": "https://youtu.be/8bk1g21Gw4w",
+        "videoUrl": "https://youtu.be/8bk1g21Gw4w",
+        "description": "Understanding contract types and risk management buffers",
+        "quiz": [
+          {
+            "question": "Micro contracts are:",
+            "options": [
+              "Larger than E-mini",
+              "Smaller in tick value",
+              "Higher leverage",
+              "Less volatile"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A buffer in risk management is used to:",
+            "options": [
+              "Increase position size",
+              "Prevent early stop-out",
+              "Avoid profit",
+              "Remove rules"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Contract sizing should depend on:",
+            "options": [
+              "Emotions",
+              "Account size",
+              "News",
+              "Spread"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Overleveraging usually leads to:",
+            "options": [
+              "Stability",
+              "Faster drawdown",
+              "Better accuracy",
+              "Institutional flow"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Tick value directly affects:",
+            "options": [
+              "Emotional bias",
+              "Dollar risk per trade",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-3",
+        "lesson_id": "ash-intermediate-3",
+        "title": "The True Day Range Gap 2025 Part 1",
+        "video_url": "https://youtu.be/mmsXfBgABIw",
+        "videoUrl": "https://youtu.be/mmsXfBgABIw",
+        "description": "Trading day range gaps effectively",
+        "quiz": [
+          {
+            "question": "A day range gap forms between:",
+            "options": [
+              "Two sessions",
+              "Two brokers",
+              "Indicators",
+              "Equal highs"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Gaps often act as:",
+            "options": [
+              "Liquidity magnets",
+              "Random zones",
+              "Indicator signals",
+              "Stop loss"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trading gaps requires confirmation of:",
+            "options": [
+              "Structure",
+              "Emotions",
+              "News only",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Gap rejection indicates:",
+            "options": [
+              "Strong defense",
+              "Weak market",
+              "Spread freeze",
+              "Market close"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Futures gap strategy works best during:",
+            "options": [
+              "Active sessions",
+              "Weekend",
+              "Low liquidity hours",
+              "Holiday"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-4",
+        "lesson_id": "ash-intermediate-4",
+        "title": "Midnight Opening Range + Open Range Gap + Fib + Risk 2025",
+        "video_url": "https://youtu.be/97d7JgT5wYs",
+        "videoUrl": "https://youtu.be/97d7JgT5wYs",
+        "description": "Advanced opening range and Fibonacci techniques",
+        "quiz": [
+          {
+            "question": "Opening range defines:",
+            "options": [
+              "Intraday structure reference",
+              "Weekly trend",
+              "Indicator cross",
+              "News impact"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Fibonacci is used to measure:",
+            "options": [
+              "Liquidity only",
+              "Retracement depth",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A valid breakout requires:",
+            "options": [
+              "Strong body close",
+              "Wick only",
+              "Small candles",
+              "Equal highs"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Risk must be adjusted when volatility:",
+            "options": [
+              "Increases",
+              "Decreases",
+              "Flat",
+              "Closed"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "CME opening logic focuses on:",
+            "options": [
+              "Institutional participation",
+              "Retail indicators",
+              "Crypto bots",
+              "Random entries"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-5",
+        "lesson_id": "ash-intermediate-5",
+        "title": "09:30 Opening Range Gap + VAR Method (CME Only)",
+        "video_url": "https://youtu.be/5cUBA_ft9bg",
+        "videoUrl": "https://youtu.be/5cUBA_ft9bg",
+        "description": "9:30 EST CME session trading with VAR method",
+        "quiz": [
+          {
+            "question": "09:30 EST represents:",
+            "options": [
+              "London close",
+              "NY cash open",
+              "Asia open",
+              "Market close"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "VAR method primarily measures:",
+            "options": [
+              "Risk tolerance",
+              "Statistical risk exposure",
+              "Volume",
+              "Spread"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Opening range expansion usually follows:",
+            "options": [
+              "Liquidity sweep",
+              "Random candle",
+              "Flat session",
+              "Holiday"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trading CME requires awareness of:",
+            "options": [
+              "Session timing",
+              "Indicators only",
+              "News only",
+              "Spread only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Combining gap + CRT bias improves:",
+            "options": [
+              "Precision",
+              "Randomness",
+              "Fear",
+              "Overtrading"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-6",
+        "lesson_id": "ash-intermediate-6",
+        "title": "AMD Model PO3 Day Level 2025",
+        "video_url": "https://youtu.be/ZseBHV2FQRg",
+        "videoUrl": "https://youtu.be/ZseBHV2FQRg",
+        "description": "Accumulation, Manipulation, Distribution model at day level",
+        "quiz": [
+          {
+            "question": "AMD stands for:",
+            "options": [
+              "Accumulation, Manipulation, Distribution",
+              "Average Market Direction",
+              "Advanced Macro Day",
+              "Automatic Model Design"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Manipulation phase typically:",
+            "options": [
+              "Sweeps liquidity",
+              "Trends strongly",
+              "Closes session",
+              "Removes volatility"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Distribution phase delivers:",
+            "options": [
+              "Main move",
+              "Range",
+              "Small candles",
+              "No liquidity"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Day-level model focuses on:",
+            "options": [
+              "Intraday structure",
+              "Weekly trend",
+              "Monthly bias",
+              "Indicators"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "PO3 enhances:",
+            "options": [
+              "Timing accuracy",
+              "Emotional trading",
+              "Random entries",
+              "Spread"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-7",
+        "lesson_id": "ash-intermediate-7",
+        "title": "Should I Learn Trading? Why and How? 2025 Logic",
+        "video_url": "https://youtu.be/nkCzJ5HDj9U",
+        "videoUrl": "https://youtu.be/nkCzJ5HDj9U",
+        "description": "Realistic perspectives on learning to trade",
+        "quiz": [
+          {
+            "question": "Trading success depends mostly on:",
+            "options": [
+              "Indicators",
+              "Discipline and risk control",
+              "News only",
+              "Luck"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A realistic expectation for beginners is:",
+            "options": [
+              "Immediate profitability",
+              "Learning curve and drawdowns",
+              "Guaranteed funding",
+              "No losses"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Trading is a skill that requires:",
+            "options": [
+              "One strategy only",
+              "Structured learning and practice",
+              "Emotional reactions",
+              "High leverage"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Capital preservation is more important than:",
+            "options": [
+              "Risk management",
+              "Fast profits",
+              "Discipline",
+              "Structure"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "The foundation of long-term trading career is:",
+            "options": [
+              "Consistency",
+              "Lot size",
+              "Indicators",
+              "News trading"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-8",
+        "lesson_id": "ash-intermediate-8",
+        "title": "How to Read and Trade Orderflow Correctly Part 2 (2025)",
+        "video_url": "https://youtu.be/6OM2qo4zjxE",
+        "videoUrl": "https://youtu.be/6OM2qo4zjxE",
+        "description": "Advanced orderflow reading and trading techniques",
+        "quiz": [
+          {
+            "question": "Orderflow imbalance is shown by:",
+            "options": [
+              "Strong displacement",
+              "Equal highs",
+              "Small candles",
+              "Flat range"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "True momentum shift requires:",
+            "options": [
+              "Volume spike only",
+              "Structure break + displacement",
+              "Indicator cross",
+              "News only"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Absorption indicates:",
+            "options": [
+              "Buyers/sellers defending level",
+              "Weak participation",
+              "Market close",
+              "No liquidity"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Aggressive entries without confirmation increase:",
+            "options": [
+              "Accuracy",
+              "Risk exposure",
+              "Probability",
+              "Discipline"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Orderflow must align with:",
+            "options": [
+              "Higher timeframe bias",
+              "Emotions",
+              "Random breakout",
+              "Spread"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-intermediate-9",
+        "lesson_id": "ash-intermediate-9",
+        "title": "CRT REBOOT 2025 PART 1",
+        "video_url": "https://youtu.be/TB2nGwfkRr4",
+        "videoUrl": "https://youtu.be/TB2nGwfkRr4",
+        "description": "CRT model fundamentals and liquidity-based execution",
+        "quiz": [
+          {
+            "question": "CRT reboot focuses on refining:",
+            "options": [
+              "Indicators",
+              "Liquidity-based execution",
+              "News trading",
+              "Volume spikes"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Core of CRT model is:",
+            "options": [
+              "Risk to reward",
+              "Liquidity sweep + structure shift",
+              "RSI divergence",
+              "Moving averages"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Confirmation candle must show:",
+            "options": [
+              "Weak close",
+              "Strong body displacement",
+              "Doji",
+              "Equal highs"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A failed CRT setup usually lacks:",
+            "options": [
+              "Displacement",
+              "Emotion",
+              "Spread",
+              "Volume"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "CRT improves entries by:",
+            "options": [
+              "Refining timing",
+              "Increasing lot size",
+              "Removing stop loss",
+              "Ignoring structure"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    ],
+    "advanced": [
+      {
+        "id": "ash-advanced-1",
+        "lesson_id": "ash-advanced-1",
+        "title": "When Does the CRT Fail? How to Choose Correctly?",
+        "video_url": "https://www.youtube.com/watch?v=x8hd0J-kz3I",
+        "videoUrl": "https://www.youtube.com/watch?v=x8hd0J-kz3I",
+        "description": "Understanding CRT failures and correct selection methods",
+        "quiz": [
+          {
+            "question": "CRT most commonly fails when:",
+            "options": [
+              "Liquidity is not taken first",
+              "RSI diverges",
+              "Volume is high",
+              "Candle large"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A low-probability CRT setup often lacks:",
+            "options": [
+              "Displacement",
+              "Color",
+              "Volume",
+              "Spread"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Choosing the correct CRT requires alignment with:",
+            "options": [
+              "Higher timeframe narrative",
+              "Indicator cross",
+              "Random breakout",
+              "News only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Entering before confirmation increases:",
+            "options": [
+              "Precision",
+              "Risk exposure",
+              "Probability",
+              "Reward"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A failed CRT usually results in:",
+            "options": [
+              "Immediate continuation opposite direction",
+              "Consolidation only",
+              "Market close",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-10",
+        "lesson_id": "ash-advanced-10",
+        "title": "CRT With FIB Precision! Part 1",
+        "video_url": "https://youtu.be/rkIFArXQkcI",
+        "videoUrl": "https://youtu.be/rkIFArXQkcI",
+        "description": "Fibonacci integration with CRT for refined entries",
+        "quiz": [
+          {
+            "question": "Fibonacci in CRT is used to measure:",
+            "options": [
+              "Retracement depth",
+              "Spread",
+              "Volume",
+              "News impact"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Optimal retracement zone increases:",
+            "options": [
+              "Entry precision",
+              "Emotional trading",
+              "Random breakout",
+              "Risk exposure"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Fib alignment is strongest when combined with:",
+            "options": [
+              "Liquidity + displacement",
+              "Indicator cross",
+              "Volume only",
+              "News spike"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Entering before retracement completes increases:",
+            "options": [
+              "Accuracy",
+              "Risk",
+              "Probability",
+              "Discipline"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Advanced CRT + Fib reduces:",
+            "options": [
+              "Stop size",
+              "Structure",
+              "Bias",
+              "Discipline"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-11",
+        "lesson_id": "ash-advanced-11",
+        "title": "CRT With FIB Precision! Part 2",
+        "video_url": "https://youtu.be/J1wE0FmN09Y",
+        "videoUrl": "https://youtu.be/J1wE0FmN09Y",
+        "description": "Premium and discount zones with Fibonacci confluence",
+        "quiz": [
+          {
+            "question": "Premium and discount zones are defined by:",
+            "options": [
+              "50% equilibrium level",
+              "RSI",
+              "Volume",
+              "Spread"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Selling in premium aligns with:",
+            "options": [
+              "Bearish bias",
+              "Bullish bias",
+              "Random breakout",
+              "News only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Confluence increases when:",
+            "options": [
+              "Fib aligns with liquidity pool",
+              "Indicator cross appears",
+              "Volume drops",
+              "Spread widens"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Invalidating a fib-based trade occurs when:",
+            "options": [
+              "Structure breaks opposite direction",
+              "Candle small",
+              "Spread tight",
+              "Volume low"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Mastery of fib precision requires:",
+            "options": [
+              "Consistent backtesting",
+              "High leverage",
+              "Emotional trading",
+              "News chasing"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-2",
+        "lesson_id": "ash-advanced-2",
+        "title": "The Truth About CRT Setups: High, Low, and 50/50 Probability Explained",
+        "video_url": "https://www.youtube.com/watch?v=E9AEtiZAyqw",
+        "videoUrl": "https://www.youtube.com/watch?v=E9AEtiZAyqw",
+        "description": "Deep dive into CRT probability levels and setup evaluation",
+        "quiz": [
+          {
+            "question": "A 50/50 setup usually occurs when:",
+            "options": [
+              "Bias is unclear",
+              "Liquidity clear",
+              "Displacement strong",
+              "HTF aligned"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "High-probability CRT requires:",
+            "options": [
+              "Liquidity sweep + structure shift + bias",
+              "Indicator crossover",
+              "News spike",
+              "Small candles"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Low-probability trades often form during:",
+            "options": [
+              "Choppy consolidation",
+              "Clear expansion",
+              "Strong displacement",
+              "Macro alignment"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Probability improves when risk:",
+            "options": [
+              "Is undefined",
+              "Is controlled and defined",
+              "Is increased",
+              "Is ignored"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Understanding probability prevents:",
+            "options": [
+              "Emotional overtrading",
+              "Discipline",
+              "Risk management",
+              "Patience"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-3",
+        "lesson_id": "ash-advanced-3",
+        "title": "2026 09:30 with ORG + Trade Setup",
+        "video_url": "https://youtu.be/7rZbTMgoM5M",
+        "videoUrl": "https://youtu.be/7rZbTMgoM5M",
+        "description": "Advanced opening range gap strategies for 2026",
+        "quiz": [
+          {
+            "question": "09:30 EST represents:",
+            "options": [
+              "NY cash open",
+              "London close",
+              "Asia open",
+              "Market close"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "ORG works best when combined with:",
+            "options": [
+              "CRT bias",
+              "RSI",
+              "Moving averages",
+              "News only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Expansion after ORG typically follows:",
+            "options": [
+              "Liquidity sweep",
+              "Flat session",
+              "Equal highs only",
+              "Volume drop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Stop placement should be based on:",
+            "options": [
+              "Structure invalidation",
+              "Random pips",
+              "Spread",
+              "Emotion"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Advanced ORG execution requires:",
+            "options": [
+              "Patience at open",
+              "Immediate entry",
+              "Overleveraging",
+              "News chasing"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-4",
+        "lesson_id": "ash-advanced-4",
+        "title": "How to Read Chart 2026 Part 1",
+        "video_url": "https://youtu.be/jqj1Rtz3jPQ",
+        "videoUrl": "https://youtu.be/jqj1Rtz3jPQ",
+        "description": "Foundational chart reading techniques for 2026",
+        "quiz": [
+          {
+            "question": "Reading charts begins with identifying:",
+            "options": [
+              "Trend structure",
+              "Indicators",
+              "Volume only",
+              "Spread"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Swing highs and lows define:",
+            "options": [
+              "Market structure",
+              "RSI",
+              "Spread",
+              "News"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Consolidation often precedes:",
+            "options": [
+              "Expansion",
+              "Market close",
+              "Spread freeze",
+              "Flat session"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Clean displacement signals:",
+            "options": [
+              "Strong participation",
+              "Weak market",
+              "Random move",
+              "Indicator lag"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Multi-timeframe reading improves:",
+            "options": [
+              "Context",
+              "Emotion",
+              "Spread",
+              "Random entries"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-5",
+        "lesson_id": "ash-advanced-5",
+        "title": "How to Read Chart 2026 Part 2",
+        "video_url": "https://youtu.be/ZqX4Zn1nP74",
+        "videoUrl": "https://youtu.be/ZqX4Zn1nP74",
+        "description": "Advanced chart reading patterns and structure analysis",
+        "quiz": [
+          {
+            "question": "Internal structure helps refine:",
+            "options": [
+              "Entry precision",
+              "Emotion",
+              "Spread",
+              "News"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "A valid BOS requires:",
+            "options": [
+              "Strong close beyond level",
+              "Wick only",
+              "Small candle",
+              "Volume drop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity above highs attracts:",
+            "options": [
+              "Price",
+              "Spread",
+              "Indicators",
+              "Volume"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "False breakout lacks:",
+            "options": [
+              "Continuation",
+              "Structure",
+              "Emotion",
+              "Spread"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Reading charts without bias leads to:",
+            "options": [
+              "Indecision",
+              "Precision",
+              "Discipline",
+              "Accuracy"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-6",
+        "lesson_id": "ash-advanced-6",
+        "title": "HOW TO TRADE MACRO 2026",
+        "video_url": "https://youtu.be/veVhwtlnlGM",
+        "videoUrl": "https://youtu.be/veVhwtlnlGM",
+        "description": "Macro trading execution framework for 2026",
+        "quiz": [
+          {
+            "question": "Macro timing focuses on:",
+            "options": [
+              "Specific institutional time windows",
+              "Indicators",
+              "News only",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Macro expansion usually occurs after:",
+            "options": [
+              "Liquidity buildup",
+              "Market close",
+              "Random candles",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Trading macro without bias increases:",
+            "options": [
+              "Risk",
+              "Precision",
+              "Accuracy",
+              "Discipline"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "News + macro alignment increases:",
+            "options": [
+              "Volatility",
+              "Spread freeze",
+              "Flat range",
+              "Low liquidity"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Advanced macro trading requires:",
+            "options": [
+              "Structured execution",
+              "High leverage",
+              "Random entries",
+              "Emotional bias"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-7",
+        "lesson_id": "ash-advanced-7",
+        "title": "How to Find My Bias for Trading Intraday? Part 1",
+        "video_url": "https://youtu.be/Thds6fd-OC4",
+        "videoUrl": "https://youtu.be/Thds6fd-OC4",
+        "description": "Foundational bias identification for intraday trading",
+        "quiz": [
+          {
+            "question": "Intraday bias should be derived from:",
+            "options": [
+              "Lower timeframe only",
+              "Higher timeframe narrative",
+              "Indicator signals",
+              "Random breakout"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Daily liquidity targets help determine:",
+            "options": [
+              "Entry candle color",
+              "Directional intention",
+              "Spread size",
+              "Volume spike"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A bullish intraday bias requires:",
+            "options": [
+              "Liquidity resting above",
+              "Liquidity resting below",
+              "Equal candles",
+              "News only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias becomes weak when:",
+            "options": [
+              "Structure aligns",
+              "Opposing liquidity is delivered",
+              "Displacement confirms",
+              "Macro aligns"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Intraday bias improves:",
+            "options": [
+              "Entry timing precision",
+              "Emotional decisions",
+              "Random trades",
+              "Overtrading"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-8",
+        "lesson_id": "ash-advanced-8",
+        "title": "How to Find My Bias for Trading Intraday? Part 2",
+        "video_url": "https://youtu.be/LlEXPpSatVQ",
+        "videoUrl": "https://youtu.be/LlEXPpSatVQ",
+        "description": "Advanced bias refinement and execution",
+        "quiz": [
+          {
+            "question": "Refined bias includes analysis of:",
+            "options": [
+              "Session timing",
+              "Indicator stacking",
+              "Spread only",
+              "Volume only"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Liquidity engineering suggests price will:",
+            "options": [
+              "Remain flat",
+              "Seek resting stops",
+              "Ignore structure",
+              "Freeze"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "A true bearish bias aligns with:",
+            "options": [
+              "Lower highs + liquidity above",
+              "Higher highs",
+              "Equal candles",
+              "News spike"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Bias confirmation should precede:",
+            "options": [
+              "Entry execution",
+              "Emotional reaction",
+              "Increasing lot size",
+              "Removing stop"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Overconfidence in bias leads to:",
+            "options": [
+              "Poor risk control",
+              "Higher accuracy",
+              "More discipline",
+              "Precision"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "ash-advanced-9",
+        "lesson_id": "ash-advanced-9",
+        "title": "Macro Each Hour Review Using Bias",
+        "video_url": "https://youtu.be/c1BtxfPW_mg",
+        "videoUrl": "https://youtu.be/c1BtxfPW_mg",
+        "description": "Hourly macro review and bias adjustment techniques",
+        "quiz": [
+          {
+            "question": "Hourly macro review helps adjust:",
+            "options": [
+              "Intraday narrative",
+              "Indicator settings",
+              "Spread",
+              "Broker leverage"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "If price delivers expected liquidity early, bias should:",
+            "options": [
+              "Remain unchanged",
+              "Be reassessed",
+              "Be ignored",
+              "Increase lot size"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "question": "Hourly structure shifts signal:",
+            "options": [
+              "Possible narrative change",
+              "Market close",
+              "Volume drop",
+              "Spread freeze"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Advanced traders adapt bias based on:",
+            "options": [
+              "Real-time delivery",
+              "Emotion",
+              "Random entries",
+              "Indicator stacking"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "question": "Macro review reduces:",
+            "options": [
+              "Blind execution",
+              "Precision",
+              "Discipline",
+              "Context"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+  "jean-mastan": {
+    "beginner": [
+      {
+        "title": "Risk Management Essentials",
+        "description": "Learn how to protect your capital and maximize your trading career longevity through proper risk management.",
+        "videoUrl": "/videos/jean-mastan/beginner/lesson-1.mp4",
+        "duration": "22 mins",
+        "content": "In this course:\n\n• Calculate proper position sizes\n• Understand win rates vs risk-reward ratios\n• Learn the Kelly Criterion\n• Implement proper stop losses\n• Build a risk management plan for your account",
+        "quiz": [
+          {
+            "question": "What does a 1:3 risk-reward ratio mean?",
+            "options": [
+              "You risk $1 to potentially make $3",
+              "You risk $3 to make $1",
+              "You win 3 times for every 1 loss",
+              "Your account grows 3 times per trade"
+            ],
+            "answer": 0,
+            "explanation": "A 1:3 risk-reward ratio means for every $1 you risk, you're aiming to make $3 in profit. This is favorable for long-term trading profitability."
+          }
+        ]
+      }
+    ],
+    "intermediate": [],
+    "advanced": []
+  }
+}
