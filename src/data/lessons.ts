@@ -215,18 +215,60 @@ export async function initializeLessonsFromContent(): Promise<void> {
             if (fs.existsSync(generatedPath)) {
               const raw = fs.readFileSync(generatedPath, "utf-8");
               const data = JSON.parse(raw);
-              // curriculum.generated.json may have a different structure; try to extract lessons
-              // It often contains a mapping under instructors or similar; attempt a best-effort merge
-              for (const instr of Object.keys(data)) {
-                const instrData = data[instr];
-                if (!instrData) continue;
-                if (!lessons[instr]) {
-                  lessons[instr] = { beginner: [], intermediate: [], advanced: [], test: [] };
+              // curriculum.generated.json may have a different structure (nested arrays).
+              // Attempt to extract lessons when file contains an `instructors` array
+              if (data && Array.isArray(data.instructors)) {
+                console.warn("Detected generated curriculum (array format). Extracting lessons by difficulty.");
+
+                const byDifficulty: { [k: string]: Lesson[] } = {
+                  beginner: [],
+                  intermediate: [],
+                  advanced: []
+                };
+
+                for (const instrEntry of data.instructors || []) {
+                  for (const market of instrEntry.markets || []) {
+                    for (const strategy of market.strategies || []) {
+                      for (const phase of strategy.phases || []) {
+                        for (const l of phase.lessons || []) {
+                          try {
+                            const safe = createSafeLesson(l);
+                            if (!safe) continue;
+                            const diff = (l.difficulty || "beginner").toLowerCase();
+                            const key = diff.includes("inter") ? "intermediate" : diff.includes("adv") ? "advanced" : "beginner";
+                            byDifficulty[key].push(safe);
+                          } catch (e) {
+                            // ignore single lesson failures
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
-                for (const lvl of Object.keys(instrData)) {
-                  lessons[instr][lvl] = (instrData[lvl] || [])
-                    .map((d: any) => createSafeLesson(d))
-                    .filter(Boolean) as Lesson[];
+
+                // Apply the extracted lessons to each known instructor slot so pages won't be empty
+                for (const instrKey of Object.keys(lessons)) {
+                  if (!lessons[instrKey]) {
+                    lessons[instrKey] = { beginner: [], intermediate: [], advanced: [], test: [] };
+                  }
+                  lessons[instrKey].beginner = deepClone(byDifficulty.beginner || []);
+                  lessons[instrKey].intermediate = deepClone(byDifficulty.intermediate || []);
+                  lessons[instrKey].advanced = deepClone(byDifficulty.advanced || []);
+                }
+
+              } else {
+                // Best-effort: try to treat top-level keys as instructor buckets
+                for (const instr of Object.keys(data)) {
+                  const instrData = data[instr];
+                  if (!instrData) continue;
+                  if (!lessons[instr]) {
+                    lessons[instr] = { beginner: [], intermediate: [], advanced: [], test: [] };
+                  }
+                  for (const lvl of Object.keys(instrData)) {
+                    lessons[instr][lvl] = (instrData[lvl] || [])
+                      .map((d: any) => createSafeLesson(d))
+                      .filter(Boolean) as Lesson[];
+                  }
                 }
               }
             }

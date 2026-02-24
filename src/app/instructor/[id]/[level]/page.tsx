@@ -20,6 +20,13 @@ export default function LevelPage() {
         const response = await fetch(`/api/lessons?instructor=${instructorId}`);
         if (response.ok) {
           const data = await response.json();
+          // Temporary debug log to verify data returned from API in production
+          try {
+            console.log('Fetched /api/lessons', { instructorId, levelId, data, NEXT_PUBLIC_FINAL_CODE: process.env.NEXT_PUBLIC_FINAL_CODE });
+          } catch (e) {
+            // ignore logging failures
+          }
+
           if (data[levelId]) {
             setLessons(data[levelId]);
           }

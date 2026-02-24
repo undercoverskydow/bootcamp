@@ -13,6 +13,17 @@ export async function GET(request: Request) {
     await initializeLessonsFromContent();
     
     const lessons = getLessonsForInstructor(instructor);
+    // Log lesson counts and environment diagnostics for troubleshooting in production
+    try {
+      const counts = {
+        beginner: lessons?.beginner?.length ?? 0,
+        intermediate: lessons?.intermediate?.length ?? 0,
+        advanced: lessons?.advanced?.length ?? 0
+      };
+      console.log('/api/lessons GET', { instructor, counts, NEXT_PUBLIC_FINAL_CODE: process.env.NEXT_PUBLIC_FINAL_CODE });
+    } catch (e) {
+      console.warn('Failed to log lessons diagnostics:', e);
+    }
     
     if (!lessons) {
       return Response.json({ error: 'Instructor not found' }, { status: 404 });

@@ -135,6 +135,12 @@ export function getProgressStats(instructor: Instructor) {
 export function validateBootcampCode(instructor: Instructor, code: string): boolean {
   try {
     const validCode = (process.env.NEXT_PUBLIC_FINAL_CODE || 'MASTAN').toString();
+    if (!process.env.NEXT_PUBLIC_FINAL_CODE) {
+      // Log a friendly warning so production env issues are visible in logs
+      try {
+        console.warn('Warning: NEXT_PUBLIC_FINAL_CODE is not defined. Falling back to default code.');
+      } catch (e) {}
+    }
     if (!code || !validCode) return false;
     return code.toString().trim().toUpperCase() === validCode.trim().toUpperCase();
   } catch (error) {
