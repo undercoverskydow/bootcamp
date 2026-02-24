@@ -70,7 +70,11 @@ export default function LessonPage() {
     const videoId = raw.split(/[?&]/)[0] || '';
     const watchUrl = videoId ? `https://youtu.be/${videoId}` : (originalEmbed || '');
 
-    // Check oEmbed to detect if the video is embeddable. If not embeddable, skip iframe.
+    // Check oEmbed to detect if the video is embeddable. We use this only for diagnostics;
+    // we no longer hide the iframe purely because the oEmbed check failed. That was causing
+    // the thumbnail to replace the iframe in some environments where the oEmbed fetch
+    // failed or was slow. Attempt the iframe first and fall back to the thumbnail only
+    // when the iframe actually errors or times out.
     const [embeddable, setEmbeddable] = useState<boolean | null>(null);
     useEffect(() => {
       if (!videoId) {
@@ -93,45 +97,14 @@ export default function LessonPage() {
       return () => { cancelled = true; };
     }, [videoId]);
 
-    // fallback if iframe doesn't load within a short time (covers some blocked embeds)
+    // fallback if iframe doesn't load within a longer timeout (covers blocked embeds)
     useEffect(() => {
       if (loaded) return;
-      const t = setTimeout(() => setFailed(true), 2200);
+      // Give more time for slower networks or dev environments
+      const t = setTimeout(() => setFailed(true), 5000);
       return () => clearTimeout(t);
     }, [loaded]);
 
-    if (failed || embeddable === false) {
-      const thumb = videoId ? `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg` : undefined;
-      return (
-        <div className="w-full h-full flex items-center justify-center bg-gray-800 rounded-xl">
-          <div className="text-center text-gray-300 w-full">
-            {thumb ? (
-              <div className="block relative w-full">
-                <div className="w-full rounded-md overflow-hidden" style={{ aspectRatio: '16/9' }}>
-                  <img src={thumb} alt="video thumbnail" className="w-full h-full object-cover block" />
-                </div>
-                <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-                  <div className="bg-black/60 p-4 rounded-full">
-                    <svg className="w-12 h-12 text-white" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M8 5v14l11-7z"/></svg>
-                  </div>
-                </div>
-              </div>
-            ) : (
-              <div>
-                <p className="mb-4">Video cannot be embedded. Displaying in modal...</p>
-              </div>
-            )}
-          </div>
-        </div>
-      );
-    }
-    if (embeddable === null) {
-      return (
-        <div className="w-full h-full flex items-center justify-center bg-gray-800 rounded-xl">
-          <div className="text-gray-400">Checking video embeddability…</div>
-        </div>
-      );
-    }
     // Build a normalized iframe src on the fly and append safer params suggested (?rel=0&modestbranding=1)
     const buildSrc = (original?: string) => {
       if (!original) return '';
@@ -148,16 +121,48 @@ export default function LessonPage() {
 
     const iframeSrc = buildSrc(originalEmbed || src);
 
+    const thumb = videoId ? `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg` : undefined;
+
+    // If the iframe failed to load, render the thumbnail fallback. Otherwise render the iframe.
+    if (failed) {
+      return (
+        <div className="w-full h-full flex items-center justify-center bg-gray-800 rounded-xl">
+          <div className="text-center text-gray-300 w-full">
+            {thumb ? (
+              <div className="block relative w-full">
+                <div className="w-full rounded-md overflow-hidden" style={{ aspectRatio: '16/9' }}>
+                  <img src={thumb} alt="video thumbnail" className="w-full h-full object-contain md:object-cover block" />
+                </div>
+                <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+                  <div className="bg-black/60 p-4 rounded-full">
+                    <svg className="w-12 h-12 text-white" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M8 5v14l11-7z"/></svg>
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <div>
+                <p className="mb-4">Video cannot be embedded. <a className="underline text-purple-400" href={watchUrl} target="_blank" rel="noreferrer">Open on YouTube</a></p>
+              </div>
+            )}
+          </div>
+        </div>
+      );
+    }
+
+    // While embeddability is being checked we can still render the iframe; show a small
+    // status if desired, but don't block the iframe rendering.
     return (
-      <iframe
-        src={iframeSrc}
-        className="w-full h-full block"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowFullScreen
-        title={title}
-        onError={() => setFailed(true)}
-        onLoad={() => setLoaded(true)}
-      />
+      <div className="w-full h-full block">
+        <iframe
+          src={iframeSrc}
+          className="w-full h-full block"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+          title={title}
+          onError={() => setFailed(true)}
+          onLoad={() => setLoaded(true)}
+        />
+      </div>
     );
   }
 
@@ -260,7 +265,7 @@ export default function LessonPage() {
             scrollbar-width: thin;
           }
         `}</style>
-        <div className="p-8">
+        <div className="p-8 pt-20 md:pt-8">
           <div className="max-w-5xl mx-auto">
             {/* Back Button */}
             <motion.button
@@ -274,7 +279,8 @@ export default function LessonPage() {
             </motion.button>
 
             {/* Video Player - forced iframe */}
-            <div className="w-full bg-black rounded-xl overflow-hidden" style={{ aspectRatio: '16/9' }}>
+            <div className="w-full px-4 sm:px-0">
+              <div className="w-full bg-black rounded-xl overflow-hidden" style={{ aspectRatio: '16/9' }}>
                 {(() => {
                   // Extract video ID from various YouTube URL formats
                   let videoId = '';
@@ -298,6 +304,7 @@ export default function LessonPage() {
                     <IframePlayer src={embedUrl} title={lesson.title} originalEmbed={embedUrl} />
                   );
                 })()}
+              </div>
             </div>
 
             {/* Lesson info below video (kept styling similar to VideoPlayer) */}

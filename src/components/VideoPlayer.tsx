@@ -16,17 +16,19 @@ export function VideoPlayer({ lesson }: VideoPlayerProps) {
       transition={{ duration: 0.5 }}
       className="w-full"
     >
-      <div className="relative w-full bg-black rounded-xl overflow-hidden "  style={{ aspectRatio: '16/9' }}>
-        {lesson.videoUrl ? (
-          <iframe
-            src={lesson.videoUrl}
-            width="100%"
-            height="100%"
-            className="block"
-            allowFullScreen
-            title={lesson.title}
-          />
-        ) : (
+      <div className="w-full px-4 sm:px-0">
+        <div className="relative w-full bg-black rounded-xl overflow-hidden "  style={{ aspectRatio: '16/9' }}>
+          {lesson.videoUrl ? (
+            <iframe
+              src={lesson.videoUrl}
+              width="100%"
+              height="100%"
+              className="block w-full h-full"
+              loading="lazy"
+              allowFullScreen
+              title={lesson.title}
+            />
+          ) : (
           <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-gray-900 to-black">
             <div className="text-center text-gray-50">
               <motion.div
@@ -51,6 +53,7 @@ export function VideoPlayer({ lesson }: VideoPlayerProps) {
           <p className="text-gray-50 text-sm font-semibold">
             {lesson.duration || 'Video'}
           </p>
+        </div>
         </div>
       </div>
 

@@ -108,7 +108,8 @@ export function LessonSidebar({
       {/* Mobile toggle */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="md:hidden fixed top-4 left-4 z-40 p-2 bg-purple-900/40 border border-purple-500/30 rounded-lg"
+        className="md:hidden fixed top-4 right-4 z-40 p-2 bg-purple-900/40 border border-purple-500/30 rounded-lg"
+        aria-label="Open lessons menu"
       >
         {isOpen ? (
           <X className="w-5 h-5" />
