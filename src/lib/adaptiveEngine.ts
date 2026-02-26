@@ -1,9 +1,10 @@
 // src/lib/adaptiveEngine.ts
 
-import { MarketQuestion } from './questionPool';
+import type { MarketQuestion, Difficulty } from './questionPool';
 import { shuffle } from './shuffle';
 
-export type Difficulty = MarketQuestion['difficulty'];
+// re‑export difficulty so callers can import from this module if they want
+export type { Difficulty };
 
 export interface HistoryEntry {
   question: MarketQuestion;
@@ -29,7 +30,7 @@ export function createSession(allQuestions: MarketQuestion[]): Session {
   const hardPool = shuffle(allQuestions.filter((q) => q.difficulty === 'hard'));
 
   let currentDifficulty: Difficulty = 'medium';
-  let history: HistoryEntry[] = [];
+  const history: HistoryEntry[] = [];
   let currentQuestion: MarketQuestion | null = null;
 
   function pickQuestion(difficulty: Difficulty): MarketQuestion {

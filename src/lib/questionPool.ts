@@ -1,10 +1,10 @@
 // src/lib/questionPool.ts
 
 import { shuffle } from './shuffle';
-import { MarketQuestion, Difficulty } from './types';
+import type { MarketQuestion, Difficulty } from './types';
 
-// re-export for convenience
-export { MarketQuestion, Difficulty };
+// re-export for convenience (types only)
+export type { MarketQuestion, Difficulty };
 
 // Example dataset compiled from the 100-question bank provided by user.
 // Difficulties are assigned using a simple rotating pattern (easy/medium/hard)

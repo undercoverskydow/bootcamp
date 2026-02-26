@@ -1,6 +1,6 @@
 'use client';
 
-import { UserProgress, Instructor, Level, LessonProgress } from './types';
+import type { UserProgress, Instructor, Level, LessonProgress } from './types';
 
 const PROGRESS_KEY = 'bootcamp_progress';
 

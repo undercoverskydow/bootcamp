@@ -1,4 +1,4 @@
-import { Lesson, Instructor, Level } from './types';
+import type { Lesson, Instructor, Level } from './types';
 import fs from 'fs';
 import path from 'path';
 
