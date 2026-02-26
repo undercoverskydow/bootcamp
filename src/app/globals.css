@@ -158,9 +158,29 @@
     @apply border-purple-400 bg-white/10;
     box-shadow: 0 0 20px rgba(147, 51, 234, 0.3),
                 inset 0 1px 0 rgba(255, 255, 255, 0.2);
-    transform: translateY(-2px);
   }
 
+  /* custom animations for market-test */
+  @keyframes shake {
+    0%,100% { transform: translateX(0); }
+    20%,60% { transform: translateX(-5px); }
+    40%,80% { transform: translateX(5px); }
+  }
+
+  .shake {
+    animation: shake 0.5s ease-in-out;
+  }
+
+  @keyframes pulse-bg {
+    0%,100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+
+  .pulse-bg {
+    animation: pulse-bg 1s infinite;
+  }
+
+  
   .button-secondary-glow:active {
     transform: translateY(0);
   }
@@ -191,7 +211,7 @@
   .container-max {
     @apply max-w-7xl mx-auto;
   }
-}
+
 
 html {
   scroll-behavior: smooth;
@@ -201,4 +221,5 @@ html {
   html {
     scroll-behavior: smooth;
   }
+}
 }

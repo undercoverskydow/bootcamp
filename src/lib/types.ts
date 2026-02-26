@@ -58,6 +58,16 @@ export interface UserProgress {
   lastAccessed?: number;
 }
 
+// market-test related types
+export type Difficulty = 'easy' | 'medium' | 'hard';
+
+export interface MarketQuestion {
+  id: string;
+  question: string;
+  correctAnswer: boolean;
+  difficulty: Difficulty;
+}
+
 // Legacy types for backward compatibility
 export interface Curriculum {
   [key: string]: any;

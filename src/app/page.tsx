@@ -227,20 +227,124 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SNAKE GAME SECTION */}
-      <section id="snake-game" className="relative py-24 px-4">
+      {/* MARKET TEST CTA SECTION */}
+      <section className="relative py-24 px-4 bg-black">
         <div className="max-w-6xl mx-auto text-center">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
-            className="text-center mb-12"
+            className="mb-12"
           >
-            <h2 className="text-3xl md:text-4xl font-bold">Play: Snake</h2>
-            <p className="text-gray-400 mt-2 mb-6">A small in-page Snake game. Start and use arrow keys.</p>
-            <SnakeGame />
+            <h2 className="text-4xl md:text-5xl font-bold">
+              Trust Your Gut – Take the Market Test
+            </h2>
+            <p className="text-gray-400 text-lg mt-4 mb-8">
+              Instincts matter in trading. Swipe fast, score harder, and see where you really stand.
+            </p>
+            <motion.a
+              href="/market-test"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="button-primary-glow px-10 py-4 rounded-lg font-bold text-lg"
+            >
+              Find your babe
+            </motion.a>
           </motion.div>
+        </div>
+      </section>
+
+      {/* CHILL ZONE - MINI GAMES SECTION */}
+      <section id="mini-games" className="relative py-24 px-4">
+        <div className="max-w-6xl mx-auto">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+            viewport={{ once: true }}
+            className="text-center mb-16"
+          >
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">Chill Zone – Mini Games</h2>
+            <p className="text-gray-400 text-lg max-w-2xl mx-auto">
+              Take a break between lessons and sharpen your instincts with quick, fun challenges.
+            </p>
+          </motion.div>
+
+          {/* Mini Games Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {/* Game 1: Snake */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: 0 }}
+              viewport={{ once: true }}
+              className="group"
+            >
+              <div className="relative rounded-xl border border-white/10 bg-white/5 backdrop-blur-md p-6 overflow-hidden transition-all duration-300 group-hover:border-purple-400/50 group-hover:bg-white/10">
+                <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
+                  style={{
+                    background: 'radial-gradient(circle at center, rgba(147, 51, 234, 0.15) 0%, transparent 70%)',
+                  }}>
+                </div>
+                <div className="relative z-10">
+                  <h3 className="text-2xl font-bold mb-2">🐍 Snake</h3>
+                  <p className="text-gray-400 text-sm mb-4">Navigate and survive. Use arrow keys.</p>
+                  <div className="bg-black/40 rounded-lg p-4">
+                    <SnakeGame />
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+
+            {/* Game 2: Trading Reflex */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: 0.1 }}
+              viewport={{ once: true }}
+              className="group"
+            >
+              <div className="relative rounded-xl border border-white/10 bg-white/5 backdrop-blur-md p-6 overflow-hidden transition-all duration-300 group-hover:border-purple-400/50 group-hover:bg-white/10">
+                <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
+                  style={{
+                    background: 'radial-gradient(circle at center, rgba(147, 51, 234, 0.15) 0%, transparent 70%)',
+                  }}>
+                </div>
+                <div className="relative z-10 text-center">
+                  <h3 className="text-2xl font-bold mb-2">📊 Quick Call</h3>
+                  <p className="text-gray-400 text-sm mb-4">Identify uptrends vs downtrends in seconds.</p>
+                  <button className="button-secondary-glow px-6 py-2 text-sm">
+                    Play Now
+                  </button>
+                </div>
+              </div>
+            </motion.div>
+
+            {/* Game 3: Risk Calc */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, delay: 0.2 }}
+              viewport={{ once: true }}
+              className="group"
+            >
+              <div className="relative rounded-xl border border-white/10 bg-white/5 backdrop-blur-md p-6 overflow-hidden transition-all duration-300 group-hover:border-purple-400/50 group-hover:bg-white/10">
+                <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
+                  style={{
+                    background: 'radial-gradient(circle at center, rgba(147, 51, 234, 0.15) 0%, transparent 70%)',
+                  }}>
+                </div>
+                <div className="relative z-10 text-center">
+                  <h3 className="text-2xl font-bold mb-2">⚖️ Risk Puzzle</h3>
+                  <p className="text-gray-400 text-sm mb-4">Master position sizing and risk management puzzles.</p>
+                  <button className="button-secondary-glow px-6 py-2 text-sm">
+                    Play Now
+                  </button>
+                </div>
+              </div>
+            </motion.div>
+          </div>
         </div>
       </section>
 

@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "commonjs",
+    "target": "esnext",
+    "lib": ["esnext"],
+    "skipLibCheck": true,
+    "strict": false
+  }
+}
